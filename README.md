@@ -1,6 +1,6 @@
-### COVID-19 3D prints
+# COVID-19 3D prints
 
-# Face Masks
+## Face Masks
 USC is looking for 6000 sets of the 3d printed mask. [Download Files](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask). Print the 3 Face Mask STL files in PETG or PLA. USC will sanitize them, then add the filters and straps. 
 
 Did you print one? [Let us know](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
@@ -26,7 +26,7 @@ Based on La Factoría 3D's [COVID Mask Thingiverse 3d print](https://www.thingiv
 Files are here on GitHub since Thingiverse seems to be having bandwidth issues.
 
 
-### Face Shields
+## Face Shields
 We are also looking for face shields
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield-singlecopy.png)
@@ -36,4 +36,5 @@ We are also looking for face shields
 Files from [https://budmen.com/](https://budmen.com/)
 
 
+## Contact Info
 Any questions? contact: [covid@crashspace.org](mailto:covid@crashspace.org)
