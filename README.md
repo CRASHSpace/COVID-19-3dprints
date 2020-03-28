@@ -24,11 +24,3 @@ Send 3d prints to:
 Based on La Factoría 3D's [COVID Mask Thingiverse 3d print](https://www.thingiverse.com/thing:4225667).
 
 Files are here on GitHub since Thingiverse seems to be having bandwidth issues.
-
-
-### Face Shields
-We are also looking for face shields
-
-![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield-singlecopy.png)
-
-[Download files for Face Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/SMP%20Face%20Shield.stl)
