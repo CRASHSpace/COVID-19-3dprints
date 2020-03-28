@@ -28,7 +28,7 @@ Files are here on GitHub since Thingiverse seems to be having bandwidth issues.
 
 
 ## Face Shields
-We are also looking for face shields
+We are also looking for face shields. This model might update, print face masks before printing these models. 
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield-singlecopy.png)
 
