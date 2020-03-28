@@ -13,13 +13,14 @@ Send 3d prints to:
  Los Angeles, CA
 ```
 
+![Face mask on model](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-on-model.png)
+
+![Face mask assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-assembly.png)
+
 ![Image of Face Mask on Prusa](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-singleset-small.png)
 
 ![2 sets of Face Masks on Prusa](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemasks-2copies-angle.png)
 
-![Face mask on model](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-on-model.png)
-
-![Face mask assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-assembly.png)
 
 Based on La Factoría 3D's [COVID Mask Thingiverse 3d print](https://www.thingiverse.com/thing:4225667).
 
