@@ -1,6 +1,6 @@
 ### COVID-19 3D prints
 
-USC is looking for 6000 sets of the 3d printed mask. [Download Files](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask). Print them in PETG or PLA. USC will sanitize them, then add the filters and straps. 
+USC is looking for 6000 sets of the 3d printed mask. [Download Files](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask). Print the 3 Face Mask STL files in PETG or PLA. USC will sanitize them, then add the filters and straps. 
 
 Did you print one? [Let us know](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
