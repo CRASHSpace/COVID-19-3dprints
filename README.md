@@ -6,11 +6,11 @@ Did you print one? [Let us know](https://docs.google.com/forms/d/e/1FAIpQLSczant
 
 Send 3d prints to:
 
-> NAME at USC
-
-> ADDRESS TO SEND PRINTS
-
-> Los Angeles, CA
+'''
+ NAME at USC
+ ADDRESS TO SEND PRINTS
+ Los Angeles, CA
+'''
 
 ![Image of Face Mask on Prusa](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-singleset-small.png)
 
