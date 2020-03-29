@@ -6,7 +6,7 @@ Delivery: We will have a dropzone at 10526 Venice Blvd., Culver City, CA 90232. 
 
 This repo will stay updated with the latest information and print files.
 
-##PRINT: Face Masks
+## PRINT: Face Masks
 
 ![Face mask on model](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-on-model.png)
 
@@ -16,7 +16,7 @@ This repo will stay updated with the latest information and print files.
 
 **PETG or PLA**
 
-####STANDBY: Face Shields
+#### STANDBY: Face Shields
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield-singlecopy.png)
 
@@ -24,7 +24,7 @@ This repo will stay updated with the latest information and print files.
 
 Source: [https://budmen.com/](https://budmen.com/)
 
-##Contact
+## Contact
 
 covid@crashspace.org
 
