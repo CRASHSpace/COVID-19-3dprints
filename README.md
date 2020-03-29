@@ -4,14 +4,15 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 **Delivery:** We will have a dropzone at 10526 Venice Blvd., Culver City, CA 90232. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). We can facilitate pickup through ShaperHands if you prefer.
 
-This repo will stay updated with the latest information and print files.
+*This repo will stay updated with the latest information and print files.*
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
 
 ![Face mask on model](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-on-model.png)
 
-**Requested:** 6000
+**USC Keck Requested:** 6000
+
 
 ### STANDBY: Face Shields
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield)
@@ -19,6 +20,7 @@ This repo will stay updated with the latest information and print files.
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield-singlecopy.png)
 
 Source: [https://budmen.com/](https://budmen.com/)
+
 
 ## Contact
 covid@crashspace.org
