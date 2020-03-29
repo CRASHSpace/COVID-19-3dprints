@@ -7,13 +7,17 @@ Delivery: We will have a dropzone at 10526 Venice Blvd., Culver City, CA 90232. 
 This repo will stay updated with the latest information and print files.
 
 ##PRINT: Face Masks
+
 ![Face mask on model](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-on-model.png)
 
 [Files - https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
+
 **Requested:** 6000
+
 **PETG or PLA**
 
 ####STANDBY: Face Shields
+
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield-singlecopy.png)
 
 [Files - https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield)
