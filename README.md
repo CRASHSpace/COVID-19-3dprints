@@ -52,7 +52,7 @@ Will have a mailing address here:
 
 Based on La Factoría 3D's [COVID Mask Thingiverse 3d print](https://www.thingiverse.com/thing:4225667) but files are modified by USC Keck Medical.
 
-Files are here on GitHub since Thingiverse seems to be having bandwidth issues.
+Files are [here](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask) on GitHub since Thingiverse seems to be having bandwidth issues.
 
 
 ## Face Shields
