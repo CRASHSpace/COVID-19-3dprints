@@ -1,11 +1,11 @@
 # Face Mask
 
-##### Each mask consists of:
+#### Each mask consists of:
 **1 x** USCSW-Filtrated_Mask-v2L.stl **OR** USCSW-Filtrated_Mask-v2M.stl
 **1 x** covid_mask_cap.stl
 **1 x** covid_mask_grid.stl
 
-##### Need:
+#### Need:
 **2 Medium** masks for every **1 Large** mask
 
 Print material: PETG or PLA
