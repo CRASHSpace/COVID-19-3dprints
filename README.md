@@ -25,7 +25,7 @@ USC is looking for 6000 sets of the 3d printed mask. [Download Files](https://gi
 Did you print one? [Let us know](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
 
-Send 3d prints to:
+Send 3d prints to (currently email covid@crashspace.org and we'll orgainize a drop zone):
 
 ```
  Mailing address will be here soon. Check back soon.
