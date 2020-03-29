@@ -3,9 +3,6 @@
 Medical professionals are in need of PPE (Personal Protective Equipement). Crashspace has been in contact with USC Keck Medicine and others. They have asked for masks:
 
 
->  **Darryl Hwang**
->  
-> 
 > We are accepting 3D printed parts. Keck Medical Center will finish attaching padding, filter, and elastic straps. We have two sizes of mask. Currently we are looking to produce a 2:1  M :L. If you are making these for other place or for personal use, we are using Frost King 5/16" x1/4" D Profile Premium Rubber Self-Stick Weatherseal. We are sealing around the outer edge with hot glue, but we are experimenting the Flex Seal. The filter is a Honeywell HEPA filter model HRF201B.
 > 
 > We are currently printing a variant of the pseudo N95 mask found on [https://lowellmakes.com/covid-19-response/](https://lowellmakes.com/covid-19-response/)
@@ -13,15 +10,12 @@ Medical professionals are in need of PPE (Personal Protective Equipement). Crash
 > I’ve included our variants of their model. We are working on more thing including different sizes as well as a process to cast them using resin. I will update people as new models come out.
 > 
 > We are also working with people to produce face shields. Many of the designs out in the world right now are not wide enough for the liking of our Infection Prevention team. We are laser cutting 13 “ x 9.5” shields and 3D printing head bands. That design is also included (please note the attachment points on the model may need scaling for the thickness of the shield material).
-> 
 > Any assistance would be most welcomed.
 > 
-> Darryl H. Hwang, PhD
+> **Darryl H. Hwang, PhD**
 > 
 > Assistant Professor of Research, Department of Radiology, Keck School of Medicine
-> 
 > Assistant Professor of Research, Department of Biomedical Engineering, Viterbi School of Engineering
-> 
 > Director, 4D Quantitative Imaging Lab, Keck Medical Center of USC
 
 
