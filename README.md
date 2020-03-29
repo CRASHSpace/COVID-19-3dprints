@@ -25,8 +25,17 @@ USC is looking for 6000 sets of the 3d printed mask. [Download Files](https://gi
 Did you print one? [Let us know](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
 
-Send 3d prints to (currently email covid@crashspace.org and we'll orgainize a drop zone):
+Send 3d prints to (currently email covid@crashspace.org and we'll orgainize a drop zone)
 
+**Temporary drop zone**
+
+Setting up a dropzone at Crashspace from 4:30pm-6pm Sunday 3/29/2020. Foot activated drop box will be around back in the alley.
+``` 
+10526 Venice Blvd
+Culver City, CA 90232
+```
+
+Will have a mailing address here:
 ```
  Mailing address will be here soon. Check back soon.
  Los Angeles, CA
