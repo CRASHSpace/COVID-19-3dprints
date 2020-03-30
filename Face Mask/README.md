@@ -15,6 +15,8 @@
 
 **Print Ratio:** 2 Medium masks : 1 Large mask
 
+**Prusa pre-laid 3MF:** [Prusa_pre-laid-2xM-1xL-USCSW-Filtrated_Mask-v2.3mf](https://github.com/CRASHSpace/COVID-19-3dprints/Face%20Mask/Prusa_pre-laid-2xM-1xL-USCSW-Filtrated_Mask-v2.3mf)
+
 ## Did you print one?
 They would also like to know the following:
 
