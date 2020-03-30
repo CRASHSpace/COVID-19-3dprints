@@ -56,4 +56,4 @@ This can be recorded and submitted with prints, or filled out [here](https://air
 
 
 ### Source:
-Files are **MODIFIED** versions of La Factoría [COVID Mask Thingiverse 3d print](https://www.thingiverse.com/thing:4225667) 
+Files are **MODIFIED** versions of [Lowell design](https://lowellmakes.com/covid-19-response/)
