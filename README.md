@@ -4,6 +4,13 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 **Delivery:** We will have a dropzone at 10526 Venice Blvd., Culver City, CA 90232. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). We can facilitate pickup through ShaperHands if you prefer.
 
+Or mail masks to:
+
+> Attn: Darryl Hwang
+> Keck Hospital of USC
+> 1500 San Pablo St #3
+> Los Angeles, CA 90033
+
 *This repo will stay updated with the latest information and print files.*
 
 ## PRINT: Face Masks
