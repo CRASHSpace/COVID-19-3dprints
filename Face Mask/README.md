@@ -15,8 +15,8 @@
 
 **Print Ratio:** 2 Medium masks : 1 Large mask
 
-## Please also:
-If you print these, they would like to know the following:
+## Did you print one?
+They would also like to know the following:
 
 Name/Company (opt.)
 
@@ -28,7 +28,7 @@ Printer type
 
 Print materials
 
-This can be recorded and submitted with prints, or filled out [here](https://docs.google.com/forms/d/e/1FAIpQLScxLixVSteK713kK6XCG89HNkqvWyprzBJLWu2vxHR_TX0TIA/viewform)
+This can be recorded and submitted with prints, or filled out [here](https://airtable.com/shrZCoERKFkLPPHIm)
 
 ### 3/29 Update:
 > Heads up. I received a batch with some print issues. Some surface imperfections is fine, but issues with the filter interface is bad. Please check to see if those print areas are free of issues before dropping off. That would be awesome.
@@ -50,13 +50,7 @@ This can be recorded and submitted with prints, or filled out [here](https://doc
 > Assistant Professor of Research, Department of Biomedical Engineering, Viterbi School of Engineering
 > Director, 4D Quantitative Imaging Lab, Keck Medical Center of USC
 
-![Face mask on model](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-on-model.png)
-
-![Face mask assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-assembly.png)
-
-![Image of Face Mask on Prusa](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-singleset-small.png)
-
-![2 sets of Face Masks on Prusa](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemasks-2copies-angle.png)
+![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
 
 ### Source:
-Files are **modified** versions of [https://lowellmakes.com/covid-19-response/](https://lowellmakes.com/covid-19-response/)
+Files are **modified** versions of La Factoría [COVID Mask Thingiverse 3d print](https://www.thingiverse.com/thing:4225667) 

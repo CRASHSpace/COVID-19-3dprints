@@ -9,7 +9,7 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
 
-![Face mask on model](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask-on-model.png)
+![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
 
 **USC Keck Requested:** 6000
 
