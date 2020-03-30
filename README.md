@@ -31,9 +31,9 @@ Just informational. We haven't received requests for this **yet**. It adds mater
 
 
 ## Laser cut Aerosol Box
-![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aersolbox-no-patient.jpg)
+![Cedars Aerosol Box](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/images/aersolbox-no-patient.png)
 
-[Cedars Aerosol Box - Lasercut]https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
+[Cedars Aerosol Box - Lasercut](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
 
 
 
