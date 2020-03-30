@@ -6,8 +6,8 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 Or mail masks to:
 ```
-Attn: Darryl Hwang
 Keck Hospital of USC
+Attn: Darryl Hwang
 1500 San Pablo St #3
 Los Angeles, CA 90033
 ```
