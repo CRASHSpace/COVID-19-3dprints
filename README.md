@@ -6,7 +6,7 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 *This repo will stay updated with the latest information and print files.*
 
-## <font color="green">PRINT</font>: Face Masks
+## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
 
 ![Finished Face masks](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-print.jpg)
@@ -23,7 +23,7 @@ Source: [https://budmen.com/](https://budmen.com/)
 
 
 ## DON'T PRINT: NIH Recommended Face Shield
-Just informational. We haven't received requests for this **yet**. It adds material to the Budmen design to protect from above; however, it increases print time from ~15 minutes to ~4 hours.
+Just informational. We haven't received requests for this **yet**. It adds material to the Budmen design to protect from above; however, it increases print time from 1 hour to ~4 hours.
 
 [https://3dprint.nih.gov/discover/3dpx-013238](https://3dprint.nih.gov/discover/3dpx-013238)
 

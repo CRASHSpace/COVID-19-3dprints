@@ -52,6 +52,8 @@ This can be recorded and submitted with prints, or filled out [here](https://air
 
 ![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
 
+![Face mask layout](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-layout.jpg)
+
 ![Finished Face masks](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-print.jpg)
 
 
