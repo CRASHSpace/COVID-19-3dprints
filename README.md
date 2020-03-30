@@ -9,12 +9,12 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
 
-![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
+![Finished Face masks](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-print.png)
 
 **USC Keck Requested:** 6000
 
 
-### STANDBY: Face Shields
+## STANDBY: Face Shields
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield)
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield-singlecopy.png)

@@ -52,5 +52,8 @@ This can be recorded and submitted with prints, or filled out [here](https://air
 
 ![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
 
+![Finished Face masks](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-print.png)
+
+
 ### Source:
-Files are **modified** versions of La Factoría [COVID Mask Thingiverse 3d print](https://www.thingiverse.com/thing:4225667) 
+Files are **MODIFIED** versions of La Factoría [COVID Mask Thingiverse 3d print](https://www.thingiverse.com/thing:4225667) 
