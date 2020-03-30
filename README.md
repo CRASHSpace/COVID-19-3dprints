@@ -13,6 +13,14 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 **USC Keck Requested:** 6000
 
+## Laser cut Aerosol Box
+![Cedars Aerosol Box](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/images/aersolbox-no-patient.png)
+
+[Cedars Aerosol Box - Lasercut](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
+
+**Cedars Requested:** 10
+
+
 
 ## STANDBY: Face Shields
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield)
@@ -30,10 +38,6 @@ Just informational. We haven't received requests for this **yet**. It adds mater
 ![NIH Face Shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_NIH_DtM-v3.0-print.jpg)
 
 
-## Laser cut Aerosol Box
-![Cedars Aerosol Box](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/images/aersolbox-no-patient.png)
-
-[Cedars Aerosol Box - Lasercut](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
 
 
 
