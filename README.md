@@ -30,6 +30,13 @@ Just informational. We haven't received requests for this **yet**. It adds mater
 ![NIH Face Shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_NIH_DtM-v3.0-print.jpg)
 
 
+## Laser cut Aerosol Box
+![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aersolbox-no-patient.jpg)
+
+[Cedars Aerosol Box - Lasercut]https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
+
+
+
 ## Contact
 covid@crashspace.org
 
