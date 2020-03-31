@@ -17,7 +17,7 @@ Los Angeles, CA 90033
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
 
-![Finished Face masks](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-print.jpg)
+![Face Mask Assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render_small.png)
 
 **USC Keck Requested:** 6000
 

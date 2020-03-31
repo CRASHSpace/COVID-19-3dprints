@@ -1,4 +1,5 @@
 # Face Masks for USC Keck
+![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
 
 ## Each mask consists of:
 **1 x** USCSW-Filtrated_Mask-v2M.stl **OR** USCSW-Filtrated_Mask-v2L.stl
@@ -52,7 +53,6 @@ This can be recorded and submitted with prints, or filled out [here](https://air
 > Assistant Professor of Research, Department of Biomedical Engineering, Viterbi School of Engineering
 > Director, 4D Quantitative Imaging Lab, Keck Medical Center of USC
 
-![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
 
 ![Face mask layout](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-layout.jpg)
 
