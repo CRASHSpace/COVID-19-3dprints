@@ -8,7 +8,7 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 ```
 Keck Hospital of USC
 Attn: Darryl Hwang
-1500 San Pablo St #3
+1500 San Pablo St., KMC B112
 Los Angeles, CA 90033
 ```
 
