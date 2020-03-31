@@ -26,7 +26,7 @@ Los Angeles, CA 90033
 
 [Cedars Aerosol Box - Lasercut](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
 
-**Cedars Requested:** 10
+**Cedars Requested:** 10 units
 
 
 ## STANDBY: Face Shields
