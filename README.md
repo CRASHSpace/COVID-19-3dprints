@@ -30,7 +30,7 @@ Los Angeles, CA 90033
 **USC Keck Requested:** 6000 units
 
 ## LASER CUT: Aerosol Box
-![Cedars Aerosol Box](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/images/aersolbox-no-patient_small_.png)
+![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-no-patient_small.png)
 
 [Cedars Aerosol Box - Lasercut](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
 
@@ -40,7 +40,7 @@ Los Angeles, CA 90033
 ## TEST PRINT: Face Shield
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield)
 
-![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshieldUSCV2-render_small_.png)
+![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV2-render_small.png)
 
 Source: [https://budmen.com/](https://budmen.com/)
 
