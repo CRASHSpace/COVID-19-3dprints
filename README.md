@@ -14,12 +14,6 @@ Los Angeles, CA 90033
 
 *This repo will stay updated with the latest information and print files.*
 
-[PRINT: Face Masks](#print:-face-masks)
-
-[STANDBY: Face Shields](#standby:-face-shields)
-
-[DON'T PRINT: NIH Recommended Face Shield](#don't-print:-nih-recommended-face-shield)
-
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
 
