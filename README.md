@@ -14,6 +14,14 @@ Los Angeles, CA 90033
 
 *This repo will stay updated with the latest information and print files.*
 
+[PRINT: Face Masks](#print-face-masks)
+
+[LASER CUT: Aerosol Box](#laser-cut-aerosol-box)
+
+[TEST PRINT: Face Shield](#test-print-face-shield)
+
+[DON'T PRINT: NIH Recommended Face Shield](#dont-print-nih-recommended-face-shield)
+
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
 
@@ -22,17 +30,17 @@ Los Angeles, CA 90033
 **USC Keck Requested:** 6000 units
 
 ## LASER CUT: Aerosol Box
-![Cedars Aerosol Box](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/images/aersolbox-no-patient.png)
+![Cedars Aerosol Box](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/images/aersolbox-no-patient_small_.png)
 
 [Cedars Aerosol Box - Lasercut](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
 
 **Cedars Requested:** 10 units
 
 
-## STANDBY: Face Shields
+## TEST PRINT: Face Shield
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield)
 
-![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield-singlecopy.png)
+![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshieldUSCV2-render_small_.png)
 
 Source: [https://budmen.com/](https://budmen.com/)
 
