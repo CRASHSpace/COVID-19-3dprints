@@ -30,9 +30,9 @@ Los Angeles, CA 90033
 **USC Keck Requested:** 6000 units
 
 ## LASER CUT: Aerosol Box
-![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-no-patient_small.png)
-
 [Cedars Aerosol Box - Lasercut](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
+
+![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-no-patient_small.png)
 
 **Cedars Requested:** 10 units
 
