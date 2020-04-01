@@ -14,13 +14,20 @@ Los Angeles, CA 90033
 
 *This repo will stay updated with the latest information and print files.*
 
-[PRINT: Face Masks](#print-face-masks)
+[PRINT: Face Shields](#print-face-shields) -- UPDATED 4/1/2020 to PRINT
 
-[TEST PRINT: Face Shield](#test-print-face-shield)
+[PRINT: Face Masks](#print-face-masks)
 
 [DELIVERED: Laser Cut Aerosol Box](#delivered-laser-cut-aerosol-box)
 
 [DON'T PRINT: NIH Recommended Face Shield](#dont-print-nih-recommended-face-shield)
+
+## PRINT: Face Shields
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
+
+**Cedars requested:** Budmen V3, priority.
+
+![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3.png)
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
@@ -28,13 +35,6 @@ Los Angeles, CA 90033
 ![Face Mask Assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render_small.png)
 
 **USC Keck Requested:** 6000 units
-
-## PRINT: Face Shield
-[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
-
-Print for Cedars V3 of Budmen, files up now. Waiting on approval for V4, but print V3 now.
-
-![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3.png)
 
 ## DELIVERED: Laser Cut Aerosol Box
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
