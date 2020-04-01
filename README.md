@@ -37,10 +37,12 @@ Los Angeles, CA 90033
 **Cedars Requested:** 10 units
 
 
-## TEST PRINT: Face Shield
-[https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield)
+## PRINT: Face Shield
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
 
-![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
+Print for Cedars V3 of Budmen, files up now. Waiting on approval for V4, but print V3 now.
+
+![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3.png)
 
 Source: [https://budmen.com/](https://budmen.com/)
 
