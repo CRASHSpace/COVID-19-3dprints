@@ -30,9 +30,9 @@ Printer type
 
 Print materials
 
-This can be recorded and submitted with prints, or filled out [here](https://airtable.com/shrZCoERKFkLPPHIm)
+This can be recorded [here](https://airtable.com/shrZCoERKFkLPPHIm), or written and submitted with prints.
 
-### Information on Request:
+## Information on Request:
 Cedars-Sinai evaluated and approved this design, and put out a high priority request for units. They are currently evaluating V4.
 
 ### Source:
