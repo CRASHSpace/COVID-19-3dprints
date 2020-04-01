@@ -1,6 +1,6 @@
-# COVID-19 3D prints, equipment and other PPE
+# COVID-19 3D prints and projects
 
-COVID-19 is impacting medical professionals hard. If you are around L.A. and have a 3D printer or other fabrication tools, **we need your help.** CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. They need personal protective equipment, and have requested the following designs. Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
+COVID-19 is impacting medical professionals hard. If you are around L.A. and have a 3D printer or other fabrication tools, **we need your help.** CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. You can read about our full efforts here: [https://blog.crashspace.org/covid/](https://blog.crashspace.org/covid/). Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
 **Delivery:** We will have a dropzone at 10526 Venice Blvd., Culver City, CA 90232. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). 
 
@@ -52,15 +52,14 @@ Los Angeles, CA 90033
 
 ![SMP Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
 
-**Cedars requested:** Budmen V3. *Priority*.
+**USC Keck evaluating**
 
 ## DELIVERED: Laser Cut Aerosol Box
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
 
 ![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-inField_small.jpg)
 
-
-**Delivered:** 1 evaluation unit
+**Delivered:** 1 evaluation unit for intubation testing
 
 ## DON'T PRINT: NIH Recommended Face Shield
 Just informational. We haven't received requests for this **yet**. It adds material to the Budmen design to protect from above; however, it increases print time from 1 hour to ~4 hours.
