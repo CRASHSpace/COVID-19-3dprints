@@ -13,7 +13,7 @@
 
 **Print material:** PETG or PLA
 
-**Suggested settings:** *0.6mm DRAFT* (if available, otherwise largest layer size) with *~10% infill*, *4 solid top layers* and *3 solid bottom layers*.
+**Suggested settings:** *0.3mm DRAFT* with *~10% infill*, *4 solid top layers* and *3 solid bottom layers*.
 
 **Prusa pre-laid 3MF:** [3D-files/BudmenV3_2face_shields-Pre-laid-out.3mf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/3D-files/BudmenV3_2face_shields-Pre-laid-out.3mf)
 
