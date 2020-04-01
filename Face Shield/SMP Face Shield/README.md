@@ -15,7 +15,7 @@ Print a test and report the results. USC Keck is evaluating these, but doesn't n
 
 **Print material:** *PETG* or *PLA*
 
-**Suggested settings:** *0.6mm DRAFT* (if available, otherwise largest layer size) with *~20% infill* and *support on base layer only*
+**Suggested settings:** *0.6mm DRAFT* (if available, otherwise largest layer size) with *~10% infill* and *support on base layer only*
 
 **Prusa pre-laid 3MF:** [SMP Face Shield rev3_SUPPORT.3mf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/SMP%20Face%20Shield/SMP%20Face%20Shield%20rev3_SUPPORT.3mf)
 
