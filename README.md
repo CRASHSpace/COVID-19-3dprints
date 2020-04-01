@@ -16,9 +16,9 @@ Los Angeles, CA 90033
 
 [PRINT: Face Masks](#print-face-masks)
 
-[LASER CUT: Aerosol Box](#laser-cut-aerosol-box)
-
 [TEST PRINT: Face Shield](#test-print-face-shield)
+
+[DELIVERED: Laser Cut Aerosol Box](#delivered-laser-cut-aerosol-box)
 
 [DON'T PRINT: NIH Recommended Face Shield](#dont-print-nih-recommended-face-shield)
 
@@ -29,20 +29,20 @@ Los Angeles, CA 90033
 
 **USC Keck Requested:** 6000 units
 
-## LASER CUT: Aerosol Box
-[https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
-
-![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-no-patient_small.png)
-
-**Cedars Requested:** 10 units
-
-
 ## TEST PRINT: Face Shield
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield)
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
 
-Source: [https://budmen.com/](https://budmen.com/)
+Modified from source: [https://budmen.com/](https://budmen.com/)
+
+
+## DELIVERED: Laser Cut Aerosol Box
+[https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
+
+![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-inField_small.jpg)
+
+**Delivered:** 1 evaluation unit
 
 
 ## DON'T PRINT: NIH Recommended Face Shield
@@ -51,7 +51,6 @@ Just informational. We haven't received requests for this **yet**. It adds mater
 [https://3dprint.nih.gov/discover/3dpx-013238](https://3dprint.nih.gov/discover/3dpx-013238)
 
 ![NIH Face Shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_NIH_DtM-v3.0-print.jpg)
-
 
 
 ## Contact
