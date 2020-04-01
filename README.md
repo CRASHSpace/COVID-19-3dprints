@@ -4,7 +4,7 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 **Delivery:** We will have a dropzone at 10526 Venice Blvd., Culver City, CA 90232. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). 
 
-*Or* mail masks to:
+*Face Masks* can also be mailed to:
 ```
 Keck Hospital of USC
 Attn: Darryl Hwang
@@ -14,20 +14,22 @@ Los Angeles, CA 90033
 
 *This repo will stay updated with the latest information and print files.*
 
-[PRINT: Face Shields](#print-face-shields) -- UPDATED 4/1/2020 to PRINT
+[PRINT: Budmen Face Shields](#print-budmen-face-shields) -- UPDATED 4/1/2020 to PRINT
 
 [PRINT: Face Masks](#print-face-masks)
+
+[STANDBY: SMP Face Shields](#standby-smp-face-shields) -- UPDATED 4/1/2020 to STANDBY
 
 [DELIVERED: Laser Cut Aerosol Box](#delivered-laser-cut-aerosol-box)
 
 [DON'T PRINT: NIH Recommended Face Shield](#dont-print-nih-recommended-face-shield)
 
-## PRINT: Face Shields
+## PRINT: Budmen Face Shields
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
 
-**Cedars requested:** Budmen V3, *priority*.
-
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
+
+**Cedars requested:** Budmen V3. *Priority*.
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
@@ -36,6 +38,13 @@ Los Angeles, CA 90033
 
 **USC Keck Requested:** 6000 units
 
+## STANDBY: SMP Face Shields
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield)
+
+![SMP Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
+
+**Cedars requested:** Budmen V3. *Priority*.
+
 ## DELIVERED: Laser Cut Aerosol Box
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
 
@@ -43,7 +52,6 @@ Los Angeles, CA 90033
 
 
 **Delivered:** 1 evaluation unit
-
 
 ## DON'T PRINT: NIH Recommended Face Shield
 Just informational. We haven't received requests for this **yet**. It adds material to the Budmen design to protect from above; however, it increases print time from 1 hour to ~4 hours.

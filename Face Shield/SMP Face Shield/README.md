@@ -1,4 +1,4 @@
-# Face Shields
+# Face Shields for USC Keck
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render.png)
 
 Print a test and report the results. USC Keck is evaluating these, but doesn't need scaled production yet.
