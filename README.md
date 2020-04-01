@@ -6,7 +6,7 @@ Let us know if you can help at covid@crashspace.org or on [this volunteer form](
 
 **Delivery:** We will have a dropzone at 10526 Venice Blvd., Culver City, CA 90232. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). 
 
-*Face Masks* can be mailed to:
+*3D Printed Face Masks* can be mailed to:
 ```
 Keck Hospital of USC
 Attn: Darryl Hwang
