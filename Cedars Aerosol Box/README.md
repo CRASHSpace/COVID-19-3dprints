@@ -1,4 +1,4 @@
-# Budmen V3 Face Shields for Cedars-Sinai
+# Aerosol box
 Intended use:
 
 ![Intubating patient](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-use.jpg)
