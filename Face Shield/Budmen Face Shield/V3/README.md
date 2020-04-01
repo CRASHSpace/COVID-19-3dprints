@@ -33,7 +33,7 @@ Print materials
 This can be recorded and submitted with prints, or filled out [here](https://airtable.com/shrZCoERKFkLPPHIm)
 
 ### Information on Request:
-Cedars-Sinai evaluated this design and put out a high priority request for units.
+Cedars-Sinai evaluated and approved this design, and put out a high priority request for units. The are currently evaluating V4.
 
 ### Source:
 Budmen: [https://budmen.com/](https://budmen.com/)
