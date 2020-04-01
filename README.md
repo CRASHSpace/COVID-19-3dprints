@@ -16,7 +16,7 @@ Los Angeles, CA 90033
 
 *This repo will stay updated with the latest information and source files.*
 
-[PRINT: Budmen Face Shields](#print-budmen-face-shields) -- UPDATED 4/1/2020 to PRINT
+[PRINT: Budmen Face Shields V3](#print-budmen-face-shields-v) -- UPDATED 4/1/2020 to PRINT
 
 [PRINT: Face Masks](#print-face-masks)
 
@@ -30,7 +30,7 @@ Los Angeles, CA 90033
 
 [Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
 
-## PRINT: Budmen Face Shields
+## PRINT: Budmen Face Shields V3
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
