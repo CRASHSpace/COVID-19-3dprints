@@ -16,9 +16,9 @@ Los Angeles, CA 90033
 
 [PRINT: Face Masks](#print-face-masks)
 
-[LASER CUT: Aerosol Box](#laser-cut-aerosol-box)
-
 [TEST PRINT: Face Shield](#test-print-face-shield)
+
+[DELIVERED: Laser Cut Aerosol Box](#delivered-laser-cut-aerosol-box)
 
 [DON'T PRINT: NIH Recommended Face Shield](#dont-print-nih-recommended-face-shield)
 
@@ -29,14 +29,6 @@ Los Angeles, CA 90033
 
 **USC Keck Requested:** 6000 units
 
-## LASER CUT: Aerosol Box
-[https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
-
-![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-no-patient_small.png)
-
-**Cedars Requested:** 10 units
-
-
 ## PRINT: Face Shield
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
 
@@ -44,7 +36,13 @@ Print for Cedars V3 of Budmen, files up now. Waiting on approval for V4, but pri
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3.png)
 
-Source: [https://budmen.com/](https://budmen.com/)
+## DELIVERED: Laser Cut Aerosol Box
+[https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
+
+![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-inField_small.jpg)
+>>>>>>> 58e99f4e3c23465bd49adcad2b4bb266e0da6411
+
+**Delivered:** 1 evaluation unit
 
 
 ## DON'T PRINT: NIH Recommended Face Shield
@@ -53,7 +51,6 @@ Just informational. We haven't received requests for this **yet**. It adds mater
 [https://3dprint.nih.gov/discover/3dpx-013238](https://3dprint.nih.gov/discover/3dpx-013238)
 
 ![NIH Face Shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_NIH_DtM-v3.0-print.jpg)
-
 
 
 ## Contact
