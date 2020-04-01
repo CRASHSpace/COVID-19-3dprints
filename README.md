@@ -25,9 +25,9 @@ Los Angeles, CA 90033
 ## PRINT: Face Shields
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
 
-**Cedars requested:** Budmen V3, priority.
+**Cedars requested:** Budmen V3, *priority*.
 
-![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3.png)
+![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
