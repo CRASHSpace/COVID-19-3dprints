@@ -16,7 +16,7 @@ Los Angeles, CA 90033
 
 *This repo will stay updated with the latest information and source files.*
 
-[PRINT: Budmen Face Shields V3](#print-budmen-face-shields-v) -- UPDATED 4/1/2020 to PRINT
+[PRINT: Budmen Face Shields V3](#print-budmen-face-shields-v3) -- UPDATED 4/1/2020 to PRINT
 
 [PRINT: Face Masks](#print-face-masks)
 
