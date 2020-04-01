@@ -1,10 +1,10 @@
-# COVID-19 3D prints
+# COVID-19 3D prints, equipment and other PPE
 
-COVID-19 is impacting medical professionals hard. If you are around L.A. and have a 3D printer, **we need your help.** CRASH Space has been working with USC Keck Medicine and others on the front line of this pandemic. They need personal protective equipment, and have requested the following designs. Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
+COVID-19 is impacting medical professionals hard. If you are around L.A. and have a 3D printer or other fabrication tools, **we need your help.** CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. They need personal protective equipment, and have requested the following designs. Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
 **Delivery:** We will have a dropzone at 10526 Venice Blvd., Culver City, CA 90232. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). 
 
-*Face Masks* can also be mailed to:
+*Face Masks* can be mailed to:
 ```
 Keck Hospital of USC
 Attn: Darryl Hwang
@@ -12,11 +12,13 @@ Attn: Darryl Hwang
 Los Angeles, CA 90033
 ```
 
-*This repo will stay updated with the latest information and print files.*
+*This repo will stay updated with the latest information and source files.*
 
 [PRINT: Budmen Face Shields](#print-budmen-face-shields) -- UPDATED 4/1/2020 to PRINT
 
 [PRINT: Face Masks](#print-face-masks)
+
+[SEW: Face Masks](#sew-face-masks) -- ADDED 4/1/2020
 
 [STANDBY: SMP Face Shields](#standby-smp-face-shields) -- UPDATED 4/1/2020 to STANDBY
 
@@ -37,6 +39,13 @@ Los Angeles, CA 90033
 ![Face Mask Assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render_small.png)
 
 **USC Keck Requested:** 6000 units
+
+## SEW: Face Masks
+[https://laprotects.org/#manufacturers](https://laprotects.org/#manufacturers)
+
+![Sewn Face Mask](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/sewnFacemask.jpg)
+
+[PDF instructions (backup)](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_Mask-Manufacturer-Packet.pdf)
 
 ## STANDBY: SMP Face Shields
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield)
