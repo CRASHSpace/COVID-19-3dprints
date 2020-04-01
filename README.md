@@ -34,7 +34,7 @@ Los Angeles, CA 90033
 
 Print for Cedars V3 of Budmen, files up now. Waiting on approval for V4, but print V3 now.
 
-![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3.png)
+![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3.png  | width=400)
 
 ## DELIVERED: Laser Cut Aerosol Box
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
