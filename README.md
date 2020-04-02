@@ -66,10 +66,10 @@ Just informational. We haven't received requests for this **yet**. It adds mater
 ![NIH Face Shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_NIH_DtM-v3.0-print.jpg)
 
 ## DON'T PRINT: SMP Face Shield
+Just informational. **USC Keck evaluated**, and chose the Budmen design instead.
+
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield)
 
 ![SMP Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
-
-Just informational. **USC Keck evaluated**, and chose the above Budmen design instead.
 
 # THANK YOU. Yes, you.
