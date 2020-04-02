@@ -14,9 +14,7 @@
 
 **Suggested settings:** *Largest layer size option, up to 0.8mm DRAFT* with *~10% infill*.
 
----
-
-## 3DVerkstan Instructions on how to do the punching:
+### 3DVerkstan Instructions on how to do the punching:
 1. Set your hole punch to the setting for a Letter sheet
 
 2. Make a test punch in a piece of paper, then measure how far the holes are from each edge and make sure it is symmetric.
