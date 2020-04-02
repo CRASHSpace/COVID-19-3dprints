@@ -12,7 +12,7 @@
 
 **Print material:** PETG or PLA
 
-**Suggested settings:** *0.6mm DRAFT* (if available, otherwise largest layer size) with *~10% infill*.
+**Suggested settings:** *Largest layer size option, up to 0.6mm DRAFT* with *~10% infill*.
 
 **Print Ratio:** 2 Medium masks : 1 Large mask
 
