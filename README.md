@@ -1,10 +1,12 @@
-# COVID-19 3D prints
+# COVID-19 3D prints and projects
 
-COVID-19 is impacting medical professionals hard. If you are around L.A. and have a 3D printer, **we need your help.** CRASH Space has been working with USC Keck Medicine and others on the front line of this pandemic. They need personal protective equipment, and have requested the following designs. Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
+COVID-19 is impacting medical professionals hard. If you are around L.A. and have a 3D printer or other fabrication tools, **we need your help.** CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. You can read about our full efforts here: [https://blog.crashspace.org/covid/](https://blog.crashspace.org/covid/)
+
+Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
 **Delivery:** We will have a dropzone at 10526 Venice Blvd., Culver City, CA 90232. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). 
 
-*Or* mail masks to:
+*3D Printed Face Masks* can be mailed to:
 ```
 Keck Hospital of USC
 Attn: Darryl Hwang
@@ -12,15 +14,28 @@ Attn: Darryl Hwang
 Los Angeles, CA 90033
 ```
 
-*This repo will stay updated with the latest information and print files.*
+*This repo will stay updated with the latest information and source files.*
+
+[PRINT: Budmen Face Shields V3](#print-budmen-face-shields-v3) -- UPDATED 4/1/2020 to PRINT
 
 [PRINT: Face Masks](#print-face-masks)
 
-[TEST PRINT: Face Shield](#test-print-face-shield)
+[SEW: Face Masks](#sew-face-masks) -- ADDED 4/1/2020
 
 [DELIVERED: Laser Cut Aerosol Box](#delivered-laser-cut-aerosol-box)
 
 [DON'T PRINT: NIH Recommended Face Shield](#dont-print-nih-recommended-face-shield)
+
+[DON'T PRINT: SMP Face Shield](#dont-print-smp-face-shield) -- UPDATED 4/1/2020 to DON'T PRINT
+
+[Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
+
+## PRINT: Budmen Face Shields V3
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
+
+![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
+
+**Cedars requested:** Budmen V3. *Priority*.
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
@@ -29,21 +44,19 @@ Los Angeles, CA 90033
 
 **USC Keck Requested:** 6000 units
 
-## PRINT: Face Shield
-[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
+## SEW: Face Masks
+[https://laprotects.org/#manufacturers](https://laprotects.org/#manufacturers)
 
-Print for Cedars V3 of Budmen, files up now. Waiting on approval for V4, but print V3 now.
+![Sewn Face Mask](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/sewnFacemask.jpg)
 
-![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3.png)
+[PDF instructions (backup)](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_Mask-Manufacturer-Packet.pdf)
 
 ## DELIVERED: Laser Cut Aerosol Box
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
 
 ![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-inField_small.jpg)
 
-
-**Delivered:** 1 evaluation unit
-
+**Delivered:** 1 evaluation unit for intubation testing
 
 ## DON'T PRINT: NIH Recommended Face Shield
 Just informational. We haven't received requests for this **yet**. It adds material to the Budmen design to protect from above; however, it increases print time from 1 hour to ~4 hours.
@@ -52,8 +65,11 @@ Just informational. We haven't received requests for this **yet**. It adds mater
 
 ![NIH Face Shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_NIH_DtM-v3.0-print.jpg)
 
+## DON'T PRINT: SMP Face Shield
+Just informational. **USC Keck evaluated**, and chose the Budmen design instead.
 
-## Contact
-covid@crashspace.org
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield)
 
-[Volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform)
+![SMP Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
+
+# THANK YOU. Yes, you.

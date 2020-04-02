@@ -31,7 +31,7 @@ Printer type
 
 Print materials
 
-This can be recorded and submitted with prints, or filled out [here](https://airtable.com/shrZCoERKFkLPPHIm)
+This can be recorded [here](https://airtable.com/shrZCoERKFkLPPHIm), or written and submitted with prints.
 
 ### 3/29 Update:
 > Heads up. I received a batch with some print issues. Some surface imperfections is fine, but issues with the filter interface is bad. Please check to see if those print areas are free of issues before dropping off. That would be awesome.
