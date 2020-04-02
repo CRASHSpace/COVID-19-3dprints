@@ -22,11 +22,11 @@ Los Angeles, CA 90033
 
 [SEW: Face Masks](#sew-face-masks) -- ADDED 4/1/2020
 
-[STANDBY: SMP Face Shields](#standby-smp-face-shields) -- UPDATED 4/1/2020 to STANDBY
-
 [DELIVERED: Laser Cut Aerosol Box](#delivered-laser-cut-aerosol-box)
 
 [DON'T PRINT: NIH Recommended Face Shield](#dont-print-nih-recommended-face-shield)
+
+[DON'T PRINT: SMP Face Shield](#dont-print-smp-face-shield) -- UPDATED 4/1/2020 to DON'T PRINT
 
 [Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
 
@@ -51,13 +51,6 @@ Los Angeles, CA 90033
 
 [PDF instructions (backup)](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_Mask-Manufacturer-Packet.pdf)
 
-## STANDBY: SMP Face Shields
-[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield)
-
-![SMP Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
-
-**USC Keck evaluating**
-
 ## DELIVERED: Laser Cut Aerosol Box
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
 
@@ -72,5 +65,11 @@ Just informational. We haven't received requests for this **yet**. It adds mater
 
 ![NIH Face Shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_NIH_DtM-v3.0-print.jpg)
 
+## DON'T PRINT: SMP Face Shield
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield)
 
-# THANK YOU
+![SMP Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
+
+Just informational. **USC Keck evaluated**, and chose the above Budmen design instead.
+
+# THANK YOU. Yes, you.
