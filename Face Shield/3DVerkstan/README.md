@@ -41,7 +41,7 @@ Print materials
 This can be recorded [here](https://airtable.com/shrZCoERKFkLPPHIm), or written and submitted with prints.
 
 ### Information on Request:
-MLK evaluated and requested this design, and has an **immediate** need for face shields.
+MLK evaluated this design. We are waiting on verification that they will take units.
 
 ### Source:
 3DVerkstan: [https://3dverkstan.se/protective-visor/protective-visor-versions/](https://3dverkstan.se/protective-visor/protective-visor-versions/)
