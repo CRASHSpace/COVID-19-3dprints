@@ -2,13 +2,15 @@
 ![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
 
 ## Each mask consists of:
-**1 x** USCSW-Filtrated_Mask-v2M.stl **OR** USCSW-Filtrated_Mask-v2L.stl
+**1 x** [USCSW-Filtrated_Mask-v2M.stl](https://drive.google.com/file/d/16Qd42zEkn-ewqIlvkjdbc67GjXcnn7FB/view?usp=sharing) **OR** [USCSW-Filtrated_Mask-v2L.stl](https://drive.google.com/file/d/1hzrwDUB2jH0dy8VXvgWCXOA599pijXiS/view?usp=sharing)
 
-**1 x** covid_mask_cap.stl
+**1 x** [USCSW-FMask-Nose_Cap_v2..stl](https://drive.google.com/open?id=1JwZW4dB69rLj5v1VcGOa0kei8mlmBJdl)
 
 *and*
 
-**1 x** covid_mask_grid.stl
+**1 x** [USCSW-FMask-Hatch-V2.stl](https://drive.google.com/open?id=120kfSLX-nbyue0jWRaKf3exyGu7yZ7Tu)
+
+Above linked files are maintained by USC Keck. GitHub copies are backup.
 
 **Print material:** PETG or PLA
 
