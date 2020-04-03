@@ -16,8 +16,7 @@ Los Angeles, CA 90033
 
 *This repo will stay updated with the latest information and source files.*
 
-*** 4/3/2020 Recommendation is printing [Budmen V3](#priority-budmen-face-shields-v3) during the day, and [Face Masks](#print-face-masks) overnight.
-
+### 4/3/2020 Recommendation is printing [Budmen V3](#priority-budmen-face-shields-v3) during the day, and [Face Masks](#print-face-masks) overnight.
 [PRIORITY: Budmen Face Shields V3](#priority-budmen-face-shields-v3) -- UPDATED 4/3/2020 to PRIORITY
 
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
