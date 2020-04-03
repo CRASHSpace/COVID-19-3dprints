@@ -1,4 +1,4 @@
-# Budmen V3 Face Shields for Cedars-Sinai
+# Budmen V3 Face Shields for Cedars-Sinai and USC Keck
 
 ## Each mask consists of:
 **1 x** [3D-files/face-shield.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/3D-files/face-shield.stl)
