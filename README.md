@@ -22,6 +22,8 @@ Los Angeles, CA 90033
 
 [SEW: Face Masks](#sew-face-masks) -- ADDED 4/1/2020
 
+[STANDBY: 3DVerkstan Face Shields V5](#standby-3dverkstan-face-shields-v5)
+
 [DELIVERED: Laser Cut Aerosol Box](#delivered-laser-cut-aerosol-box)
 
 [DON'T PRINT: NIH Recommended Face Shield](#dont-print-nih-recommended-face-shield)
@@ -35,7 +37,7 @@ Los Angeles, CA 90033
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
 
-**Cedars requested:** Budmen V3. *Priority*.
+**Cedars and USC Keck requested:** Budmen V3 for immediate use. *Priority*.
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
@@ -50,6 +52,11 @@ Los Angeles, CA 90033
 ![Sewn Face Mask](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/sewnFacemask.jpg)
 
 [PDF instructions (backup)](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_Mask-Manufacturer-Packet.pdf)
+
+## STANDBY: 3DVerkstan Face Shields V5
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/3DVerkstan](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/3DVerkstan)
+
+![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_3DVerkstanV5_small.jpg)
 
 ## DELIVERED: Laser Cut Aerosol Box
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
