@@ -1,24 +1,22 @@
-# Face Masks for USC Keck
+# Face Masks for USC Keck — Cap and Hatch updated 4/3/2020
 ![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
 
 ## Each mask consists of:
 **1 x** [USCSW-Filtrated_Mask-v2M.stl](https://drive.google.com/file/d/16Qd42zEkn-ewqIlvkjdbc67GjXcnn7FB/view?usp=sharing) **OR** [USCSW-Filtrated_Mask-v2L.stl](https://drive.google.com/file/d/1hzrwDUB2jH0dy8VXvgWCXOA599pijXiS/view?usp=sharing)
 
-**1 x** [USCSW-FMask-Nose_Cap_v2..stl](https://drive.google.com/open?id=1JwZW4dB69rLj5v1VcGOa0kei8mlmBJdl)
+**1 x** [USCSW_Nose_Cap_v2.stl](https://drive.google.com/open?id=1JwZW4dB69rLj5v1VcGOa0kei8mlmBJdl)
 
 *and*
 
-**1 x** [USCSW-FMask-Hatch-V2.stl](https://drive.google.com/open?id=120kfSLX-nbyue0jWRaKf3exyGu7yZ7Tu)
+**1 x** [USCSW_Hatch_v2r1.stl](https://drive.google.com/open?id=120kfSLX-nbyue0jWRaKf3exyGu7yZ7Tu)
 
-Above linked files are maintained by USC Keck. GitHub copies are backup.
+Above linked files are maintained by USC Keck, from [this source](https://drive.google.com/drive/folders/1sTHeJeeu7fNUC58-MITfDVEMWmokRFQI). GitHub copies are backup.
 
 **Print material:** PETG or PLA
 
 **Suggested settings:** *Largest layer size option, up to 0.6mm DRAFT* with *~10% infill*.
 
 **Print Ratio:** 2 Medium masks : 1 Large mask
-
-**Prusa pre-laid 3MF:** [Prusa_pre-laid-2xM-1xL-USCSW-Filtrated_Mask-v2.3mf](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/Face%20Mask/Prusa_pre-laid-2xM-1xL-USCSW-Filtrated_Mask-v2.3mf)
 
 ## Did you print one?
 They would also like to know the following:
@@ -58,7 +56,7 @@ This can be recorded [here](https://airtable.com/shrZCoERKFkLPPHIm), or written 
 
 ![Face mask layout](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-layout.jpg)
 
-![Finished Face masks](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-print.jpg)
+![Assembled Face masks](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-print.jpg)
 
 
 ### Source:
