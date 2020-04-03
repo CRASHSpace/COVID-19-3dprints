@@ -18,7 +18,7 @@ Los Angeles, CA 90033
 
 [PRINT: Budmen Face Shields V3](#print-budmen-face-shields-v3) -- UPDATED 4/1/2020 to PRINT
 
-[PRINT: Face Masks](#print-face-masks)
+[PRINT: Face Masks](#print-face-masks) -- Grid UPDATED 4/2/2020
 
 [SEW: Face Masks](#sew-face-masks) -- ADDED 4/1/2020
 
