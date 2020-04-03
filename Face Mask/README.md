@@ -4,11 +4,11 @@
 ## Each mask consists of:
 **1 x** [USCSW-Filtrated_Mask-v2M.stl](https://drive.google.com/file/d/16Qd42zEkn-ewqIlvkjdbc67GjXcnn7FB/view?usp=sharing) **OR** [USCSW-Filtrated_Mask-v2L.stl](https://drive.google.com/file/d/1hzrwDUB2jH0dy8VXvgWCXOA599pijXiS/view?usp=sharing)
 
-**1 x** [USCSW_Nose_Cap_v2.stl](https://drive.google.com/open?id=1JwZW4dB69rLj5v1VcGOa0kei8mlmBJdl)
+**1 x** [USCSW_Nose_Cap_v2.stl](https://drive.google.com/open?id=1bHk-7a7_2qB2mp7JI5Sg8IgIdnh-mk-w)
 
 *and*
 
-**1 x** [USCSW_Hatch_v2r1.stl](https://drive.google.com/open?id=120kfSLX-nbyue0jWRaKf3exyGu7yZ7Tu)
+**1 x** [USCSW_Hatch_v2r1.stl](https://drive.google.com/open?id=1aPtaaZJvE8b7qigClu1hvvpWksO6jykR)
 
 Above linked files are maintained by USC Keck, from [this source](https://drive.google.com/drive/folders/1sTHeJeeu7fNUC58-MITfDVEMWmokRFQI). GitHub copies are backup.
 
