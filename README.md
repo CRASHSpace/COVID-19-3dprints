@@ -27,8 +27,6 @@ Los Angeles, CA 90033
 
 [DELIVERED: Laser Cut Aerosol Box](#delivered-laser-cut-aerosol-box)
 
-[DON'T PRINT: NIH Recommended Face Shield](#dont-print-nih-recommended-face-shield)
-
 [DON'T PRINT: SMP Face Shield](#dont-print-smp-face-shield) -- UPDATED 4/1/2020 to DON'T PRINT
 
 [Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
@@ -65,13 +63,6 @@ Los Angeles, CA 90033
 ![Cedars Aerosol Box](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/aerosolbox-inField_small.jpg)
 
 **Delivered:** 1 evaluation unit for intubation testing
-
-## DON'T PRINT: NIH Recommended Face Shield
-Just informational. We haven't received requests for this **yet**. It adds material to the Budmen design to protect from above; however, it increases print time from 1 hour to ~4 hours.
-
-[https://3dprint.nih.gov/discover/3dpx-013238](https://3dprint.nih.gov/discover/3dpx-013238)
-
-![NIH Face Shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_NIH_DtM-v3.0-print.jpg)
 
 ## DON'T PRINT: SMP Face Shield
 Just informational. **USC Keck evaluated**, and chose the Budmen design instead.
