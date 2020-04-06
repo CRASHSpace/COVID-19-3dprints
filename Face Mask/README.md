@@ -18,7 +18,7 @@ Above linked files are maintained by USC Keck, from [this source](https://drive.
 
 **Print Ratio:** 2 Medium masks : 1 Large mask
 
-**[Assembly Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/Face%20Mask/Pseudo%20N95%203D%20Printed%20Masks.pdf)**
+**[Assembly Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/Face%20Mask/Pseudo%20N95%203D%20Printed%20Masks.pdf)** - DO NOT assemble if delivering to USC Keck. This is for assembling one for yourself.
 
 
 ## Did you print one?
