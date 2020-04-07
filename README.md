@@ -4,9 +4,9 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
-**Delivery:** We have dropzones at 10526 Venice Blvd., Culver City, CA 90232, behind the building. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
+**Delivery:** We have a no-touch dropzone at 10526 Venice Blvd., Culver City, CA 90232, behind the building. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
 
-*3D Printed Face Masks* can be mailed to:
+*3D Printed Face Masks and Budmen Face Shields* can be mailed to:
 ```
 Keck Hospital of USC
 Attn: Darryl Hwang
@@ -14,10 +14,14 @@ Attn: Darryl Hwang
 Los Angeles, CA 90033
 ```
 
+**If you make something**, please let us know here (We love pictures!): [https://airtable.com/shrZCoERKFkLPPHIm](https://airtable.com/shrZCoERKFkLPPHIm)
+
+**If you'd like a donation receipt**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy) -- Added 4/7/2020
+
 *This repo will stay updated with the latest information and source files.*
 
 ### 4/3/2020 Recommendation is printing [Budmen V3](#priority-budmen-face-shields-v3) during the day, and [Face Masks](#print-face-masks) overnight.
-[PRIORITY: Budmen Face Shields V3](#priority-budmen-face-shields-v3) -- UPDATED 4/3/2020 to PRIORITY
+[PRINT: Budmen Face Shields V3](#print-budmen-face-shields-v3) -- UPDATED 4/7/2020 to PRINT
 
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
 
@@ -31,12 +35,12 @@ Los Angeles, CA 90033
 
 [Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
 
-## PRIORITY: Budmen Face Shields V3
+## PRINT: Budmen Face Shields V3
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
 
-**Cedars and USC Keck requested:** Budmen V3 for immediate use. *Priority*.
+**Cedars and USC Keck requested:** Budmen V3 for immediate use.
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
