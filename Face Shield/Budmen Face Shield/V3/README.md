@@ -33,7 +33,7 @@ Print materials
 This can be recorded [here](https://airtable.com/shrZCoERKFkLPPHIm), or written and submitted with prints.
 
 ### Information on Request:
-Cedars-Sinai evaluated and approved this design, and put out a high priority request for units. They are currently evaluating V4.
+Cedars-Sinai evaluated and approved this design, as did USC Keck. They evaluated V4 and **disapproved** due to the shield clips preventing larger shields from being used.
 
 ### Source:
 Budmen: [https://budmen.com/](https://budmen.com/)
