@@ -4,7 +4,7 @@
 ## Each mask consists of:
 **1 x** [Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl)
 
-**1 x** 0.005in thick poly sheet 3-hole punched to guides in [Lasercut-shield-NORTH-AMERICA-6-hole-letter-format.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Lasercut-shield-NORTH-AMERICA-6-hole-letter-format.pdf)
+**1 x** 0.005in thick poly sheet 3-hole punched to guides in [Lasercut-shield-NORTH-AMERICA-6-hole-letter-format.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf)
 
 *and*
 
