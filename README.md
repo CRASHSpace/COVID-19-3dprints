@@ -16,7 +16,7 @@ Los Angeles, CA 90033
 
 **If you make something**, please let us know here (We love pictures!): [https://airtable.com/shrZCoERKFkLPPHIm](https://airtable.com/shrZCoERKFkLPPHIm)
 
-**If you'd like a donation receipt**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy) -- Added 4/7/2020
+**If you'd like a donation receipt**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
 *This repo will stay updated with the latest information and source files.*
 
