@@ -4,7 +4,7 @@
 ## Each mask consists of:
 **1 x** [Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Visor_Frame_NORTH_AMERICA_letter_6-hole_v5.stl)
 
-**1 x** 0.005in thick poly sheet 3-hole punched to guides in [Lasercut-shield-NORTH-AMERICA-6-hole-letter-format.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf)
+**1 x** 0.005in thick poly sheet 3-hole punched to guides in [Verkstan-3HolePunch-CRASHSpaceMod.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf)
 
 *and*
 
@@ -15,15 +15,16 @@
 **Suggested settings:** *Largest layer size option, up to 0.8mm DRAFT* with *~10% infill*.
 
 ### 3DVerkstan Instructions on how to do the punching:
-1. Set your hole punch to the setting for a Letter sheet
 
-2. Make a test punch in a piece of paper, then measure how far the holes are from each edge and make sure it is symmetric.
+[Video How To](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be)
 
-3. Print the Spacer piece and put it on top of your guide bar. This is what creates the hole offset needed.
+1. Print out the [3 hole punch guide.](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf) 100%
 
-4. Put the Letter (8.5"x11") and make one punch along one of the long sides, with the short edge resting on your spacer piece.
+2. Tape the guide into your 3-hole punch aligning the first hole to align with the hole punch.
 
-5. Flip the Letter sheet around its short axis, and make one punch on the opposite side, so you end up with 6 holes along the same edge.
+4. To make 12"x11" shields, put the 12" side towards the hole punch. Punch 3 holes
+
+5. Slide the punched plastic sheet to the right, aligning with the guide, and punch 3 more holes.
 
 ## Did you print one?
 They would also like to know the following:
