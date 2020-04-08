@@ -49,6 +49,9 @@ Laser template here: [Budmen_Cedars_shield_v1cut.pdf](https://github.com/CRASHSp
 ## HOLE PUNCH: Verkman Shields
 If you have clear sheets 8.5" x 11", we are 3-hole punching them to this shape: [Verkstan V5 3 Hole Punch](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf)
 
+Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be)
+
+
 ## PRINT: Budmen Face Shields V3
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
 
