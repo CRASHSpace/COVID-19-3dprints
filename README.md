@@ -4,7 +4,7 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
-### **4/8 updated Delivery:** We moved dropzone to 6323 W 80th St, Los Angeles, CA 90045.
+### **Delivery (updated 4/8):** We moved dropzone to 6323 W 80th St, Los Angeles, CA 90045.
 Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
 
 *3D Printed Face Masks and Budmen Face Shields* can be mailed to:
