@@ -20,8 +20,10 @@ Los Angeles, CA 90033
 
 *This repo will stay updated with the latest information and source files.*
 
-### 4/3/2020 Recommendation is printing [Budmen V3](#priority-budmen-face-shields-v3) during the day, and [Face Masks](#print-face-masks) overnight.
-[PRINT: Budmen Face Shields V3](#print-budmen-face-shields-v3)
+### 4/3/2020 Recommendation is printing [Budmen V3](#priority-budmen-face-shields-v3) while attended, and [Face Masks](#print-face-masks) while unattended.
+[LASER CUT: Budmen Shields - Cedars/Keck version](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Budmen_Cedars_shield_v1cut.pdf) -- ADDED 4/8/2020
+
+[PRINT: Budmen Face Shields ](#print-budmen-face-shields-v3)
 
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
 
