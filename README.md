@@ -4,7 +4,8 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
-**Delivery:** We have a no-touch dropzone at 10526 Venice Blvd., Culver City, CA 90232, behind the building. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
+### **4/8 updated Delivery:** We moved dropzone to 6323 W 80th St, Los Angeles, CA 90045.
+Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
 
 *3D Printed Face Masks and Budmen Face Shields* can be mailed to:
 ```
@@ -20,7 +21,9 @@ Los Angeles, CA 90033
 
 *This repo will stay updated with the latest information and source files.*
 
-### 4/3/2020 Recommendation is printing [Budmen V3](#priority-budmen-face-shields-v3) while attended, and [Face Masks](#print-face-masks) while unattended.
+### 4/8/2020 If you have clear sheets for face shields, we can use them. If you can cut them, even better.
+
+#### 4/3/2020 Recommendation is printing [Budmen V3](#priority-budmen-face-shields-v3) while attended, and [Face Masks](#print-face-masks) while unattended.
 [LASER CUT: Budmen Shields - Cedars/Keck version](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Budmen_Cedars_shield_v1cut.pdf) -- ADDED 4/8/2020
 
 [PRINT: Budmen Face Shields ](#print-budmen-face-shields-v3)
