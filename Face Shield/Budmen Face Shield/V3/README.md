@@ -5,7 +5,7 @@
 
 **1 x** [3D-files/strap-lock.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/3D-files/strap-lock.stl)
 
-**1 x** 0.005in thick poly sheet cut to 12in x 9in rectangles
+**1 x** 0.005in thick poly sheet cut to template [polysheet-templates/Budmen_Cedars_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Budmen_Cedars_shield_v1cut.pdf)
 
 *and*
 
