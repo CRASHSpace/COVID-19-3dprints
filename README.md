@@ -22,10 +22,11 @@ Los Angeles, CA 90033
 *This repo will stay updated with the latest information and source files.*
 
 ### 4/8/2020 If you have clear sheets for face shields, we can use them. If you can cut them, even better.
+[LASER CUT: Budmen Shields](#laser-cut-cedars-budmen-shields) -- ADDED 4/8/2020
+
+[HOLE PUNCH: Verkman Shields](#hole-punch-verkman-shields) -- ADDED 4/8/2020
 
 #### 4/3/2020 Recommendation is printing [Budmen V3](#priority-budmen-face-shields-v3) while attended, and [Face Masks](#print-face-masks) while unattended.
-[LASER CUT: Budmen Shields - Cedars/Keck version](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Budmen_Cedars_shield_v1cut.pdf) -- ADDED 4/8/2020
-
 [PRINT: Budmen Face Shields ](#print-budmen-face-shields-v3)
 
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
@@ -39,6 +40,14 @@ Los Angeles, CA 90033
 [DON'T PRINT: SMP Face Shield](#dont-print-smp-face-shield) -- UPDATED 4/1/2020 to DON'T PRINT
 
 [Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
+
+## LASER CUT: Cedars Budmen Shields
+If you have clear sheets 10" x 12" or larger, we are cutting them to this shape: [Cedars Budmen shield template](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Budmen_Cedars_shield_v1.pdf)
+
+Laser template here: [Budmen_Cedars_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Budmen_Cedars_shield_v1cut.pdf)
+
+## HOLE PUNCH: Verkman Shields
+If you have clear sheets 8.5" x 11", we are 3-hole punching them to this shape: [Verkstan V5 3 Hole Punch](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf)
 
 ## PRINT: Budmen Face Shields V3
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
