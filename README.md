@@ -7,6 +7,10 @@ Let us know if you can help at covid@crashspace.org or on [this volunteer form](
 ### **Delivery (updated 4/9):** We moved dropzone to 6323 W 80th St, Los Angeles, CA 90045.
 Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). USC Keck has enough supplies now to tide them over (Great work everyone!), so *no need to mail them prints*.
 
+![Dropzone outside](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/Dropzone_Outside.jpg)
+
+![Dropzone doorway drop](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/Dropzone_Doorway.jpg)
+
 **If you make something**, please let us know here (We love pictures!): [https://airtable.com/shrZCoERKFkLPPHIm](https://airtable.com/shrZCoERKFkLPPHIm)
 
 **If you'd like a donation receipt**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
