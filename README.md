@@ -4,16 +4,8 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
-### **Delivery (updated 4/8):** We moved dropzone to 6323 W 80th St, Los Angeles, CA 90045.
-Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
-
-*3D Printed Face Masks and Budmen Face Shields* can be mailed to:
-```
-Keck Hospital of USC
-Attn: Darryl Hwang
-1500 San Pablo St., KMC B112
-Los Angeles, CA 90033
-```
+### **Delivery (updated 4/9):** We moved dropzone to 6323 W 80th St, Los Angeles, CA 90045.
+Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). USC Keck has enough supplies now to tide them over (Great work everyone!), so no need to mail them prints.
 
 **If you make something**, please let us know here (We love pictures!): [https://airtable.com/shrZCoERKFkLPPHIm](https://airtable.com/shrZCoERKFkLPPHIm)
 
@@ -26,7 +18,7 @@ Los Angeles, CA 90033
 
 [HOLE PUNCH: Verkman Shields](#hole-punch-verkman-shields) -- ADDED 4/8/2020
 
-#### 4/3/2020 Recommendation is printing [Budmen V3](#priority-budmen-face-shields-v3) while attended, and [Face Masks](#print-face-masks) while unattended.
+#### 4/3/2020 Print recommendation is [Budmen V3](#priority-budmen-face-shields-v3) while attended, and [Face Masks](#print-face-masks) while unattended.
 [PRINT: Budmen Face Shields ](#print-budmen-face-shields-v3)
 
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
@@ -57,14 +49,12 @@ Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
 
-**Cedars and USC Keck requested:** Budmen V3 for immediate use.
+**Cedars requested:** Budmen V3 for immediate use.
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
 
 ![Face Mask Assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render_small.png)
-
-**USC Keck Requested:** 6000 units
 
 ## SEW: Face Masks
 [https://laprotects.org/#manufacturers](https://laprotects.org/#manufacturers)
