@@ -7,7 +7,7 @@
 
 **1 x** 0.005in thick poly sheet cut to template: [polysheet-templates/Budmen_Cedars_shield_v1.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/polysheet-templates/Budmen_Cedars_shield_v1.pdf) 
 
-Laser template: [polysheet-templates/Budmen_Cedars_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/polysheet-templates/Budmen_Cedars_shield_v1cut.pdf)
+Laser template: [polysheet-templates/Budmen_Cedars_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/polysheet-templates/Cedars_Budmen_shield_v1cut.pdf)
 
 *and*
 
