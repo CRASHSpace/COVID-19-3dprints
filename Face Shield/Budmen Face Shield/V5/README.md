@@ -1,9 +1,9 @@
 # Budmen V5 Face Shields for Cedars-Sinai and USC Keck
 
 ## Each mask consists of:
-**1 x** [3D-files/face-shield.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/face-shield.stl)
+**1 x** [3D-files/face-shield.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/USCBM_Faceshield-V5.stl)
 
-**1 x** [3D-files/strap-lock.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V4/3D-files/strap-lock.stl)
+**1 x** [3D-files/strap-lock.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/strap-lock.stl)
 
 **1 x** 0.005in thick poly sheet cut to template: [polysheet-templates/Budmen_Cedars_shield_v1.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/polysheet-templates/Budmen_Cedars_shield_v1.pdf) 
 
