@@ -4,8 +4,10 @@ COVID-19 is impacting medical professionals hard. If you are around L.A. and hav
 
 Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
-### **Delivery (updated 4/9):** We moved dropzone to 6323 W 80th St, Los Angeles, CA 90045.
-Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). USC Keck has enough supplies now to tide them over (Great work everyone!), so *no need to mail them prints*.
+*This repo will stay updated with the latest information and source files.*
+
+### **Delivery (updated 4/9):** Dropzone moved to 6323 W 80th St, Los Angeles, CA 90045.
+Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). USC Keck has enough supplies now to tide them over (Great work everyone!), so *no need to mail prints to them*.
 
 ![Dropzone outside](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/Dropzone_Outside.jpg)
 
@@ -15,9 +17,10 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 **If you'd like a donation receipt**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
-*This repo will stay updated with the latest information and source files.*
+## Things we need:
+1/4" - 1/2" LATEX FREE ELASTIC: Synthetic rubber is okay. If it doesn't say whether it's latex-free, it isn't. -- Added 4/10/2020
 
-### 4/8/2020 If you have clear sheets for face shields, we can use them. If you can cut them, even better.
+#### 4/8/2020 Clear sheets for face shields. If you can cut them, even better.
 [LASER CUT: Budmen Shields](#laser-cut-cedars-budmen-shields) -- ADDED 4/8/2020
 
 [HOLE PUNCH: Verkman Shields](#hole-punch-verkman-shields) -- ADDED 4/8/2020
