@@ -2,9 +2,9 @@
 
 COVID-19 is impacting medical professionals hard. If you are around L.A. and have a 3D printer or other fabrication tools, **we need your help.** CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. You can read about our full efforts here: [https://blog.crashspace.org/covid/](https://blog.crashspace.org/covid/)
 
-### [(4/10) WE LAUNCHED OUR GOFUNDME!](https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19)
-
 Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
+
+### [(4/10) WE LAUNCHED OUR GOFUNDME!](https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19)
 
 *This repo will stay updated with the latest information and source files.*
 
