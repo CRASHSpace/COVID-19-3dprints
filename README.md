@@ -28,7 +28,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 [HOLE PUNCH: Verkman Shields](#hole-punch-verkman-shields) -- ADDED 4/8/2020
 
 #### (4/3) Print recommendation is [Budmen V5](#priority-budmen-face-shields-v5) while attended, and [Face Masks](#print-face-masks) while unattended.
-[PRINT: Budmen Face Shields ](#print-budmen-face-shields-v5)
+[PRINT: Budmen Face Shields ](#print-budmen-face-shields-v5) -- STL FILES UPDATED 4/10/2020
 
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
 
