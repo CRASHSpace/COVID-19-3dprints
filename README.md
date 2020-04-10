@@ -27,7 +27,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 [HOLE PUNCH: Verkman Shields](#hole-punch-verkman-shields) -- ADDED 4/8/2020
 
-#### (4/3) Print recommendation is [Budmen V3](#priority-budmen-face-shields-v3) while attended, and [Face Masks](#print-face-masks) while unattended.
+#### (4/3) Print recommendation is [Budmen V5](#priority-budmen-face-shields-v5) while attended, and [Face Masks](#print-face-masks) while unattended.
 [PRINT: Budmen Face Shields ](#print-budmen-face-shields-v3)
 
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
@@ -55,12 +55,12 @@ If you have clear sheets 8.5" x 11", we are 3-hole punching them to this shape: 
 Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be)
 
 
-## PRINT: Budmen Face Shields V3
-[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V3)
+## PRINT: Budmen Face Shields V5 (Updated April 10, 2020)
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5)
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
 
-**Cedars requested:** Budmen V3 for immediate use.
+**Cedars requested:** Budmen V5 for immediate use.
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
