@@ -1,0 +1,46 @@
+# Comment: this file uses
+#   a '.' to group related settings
+#   one 'key = value' entry per line
+#   'snake_casing' for multiword keys
+#   plain text for values
+
+# Printer mechanics
+printer.width = 300
+printer.depth = 300
+printer.height = 400
+
+printer.build_plate_shape = rectangular
+printer.origin_at_center = false
+printer.heated_bed = true
+printer.heated_build_volume = false
+printer.gcode_flavor = marlin
+
+printer.printhead.xmin = -44
+printer.printhead.ymin = -34
+printer.printhead.xmax = 38
+printer.printhead.ymax = 34
+printer.printhead.gantry_height = 30
+
+printer.number_of_extruders = 1
+printer.shared_heater = false
+
+printer.extruder1.material_diameter = 1.75
+printer.extruder1.nozzle_offset_x = 0
+printer.extruder1.nozzle_offset_y = 0
+printer.extruder1.cooling_fan_number = 0
+
+# Slicer profile
+profile.quality.layer_height = 20
+profile.quality.initial_layer_height = 24
+
+profile.material.printing_temperature = 220
+profile.material.build_plate_temperature = 60
+profile.material.flow = 130
+profile.material.initial_layer_flow = 150
+
+profile.speed.print_speed = 50
+profile.speed.wall_speed = 25
+profile.speed.initial_layer_speed = 20
+
+profile.adhesion.type = skirt
+profile.adhesion.skirt.length_min = 400
