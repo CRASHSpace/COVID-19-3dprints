@@ -1,7 +1,9 @@
 # CRASHSpace Scrunchy Strap for Budmen Shield
 This is a work in progress.
 
-![CRASHSpace Scrunchy Strap](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/crashspaceScrunchy_left.png)
+![CRASHSpace Scrunchy Strap](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/CS_scrunchy_assem.png)
+
+![CRASHSpace Scrunchy Strap](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/CS_scrunchy_blue_kevin.png)
 
 The shortage of elastic is causing us to reconsider how to attach the shields to workers heads. This design requires no elastic and is faster to assemble than with elastic.
 
