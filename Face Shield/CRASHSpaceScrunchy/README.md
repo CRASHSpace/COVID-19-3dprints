@@ -2,7 +2,9 @@
 This is a work in progress.
 
 ![CRASHSpace Scrunchy Strap](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/crashspaceScrunchy_left.png)
+
 The shortage of elastic is causing us to reconsider how to attach the shields to workers heads. This design requires no elastic and is faster to assemble than with elastic.
+
 
 [CRASHSpace Scrunchy for Budmen Sheild](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/CRASHSpaceScrunchy/C-Scrunchy-Budmen-v1rc1.STL) (STL)
 
