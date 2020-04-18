@@ -11,12 +11,11 @@
 ;EOFFSETPROCESSED
 ;Generated with Cura_SteamEngine mb-master-20200328
 M82 ;absolute extrusion mode
-; START
 ; Crashspace Printer Farm MP10 Mini (C. Nicks Start Code + John Gwinner Probe Code)
 M140 S45 ; set bed temp
 M104 S160 T0 ; set extruder park temp to warm but not ooze during bed probing
 G28 ; home all axis
-M190 S55 ; wait for bed temp
+M190 S45 ; wait for bed temp
 G29 P1; probes mesh
 G29 P3; fill in mesh that can't be reached is good
 G29 S0 ; save mesh
@@ -24,15 +23,13 @@ G29 F 10.0 ;prints linear above this height
 G29 A ; use UBL
 M104 S240 T0 ; set extruder temp
 G92 E0;(Reset the extruder to 0)
-G0 X0 Y190 Z2 F1500; (set into park)
+G0 X0 Y0 Z2 F1500; (set into park)
 M109 S240 T0 ; wait for extruder temp
-;PRIME
-G0 Z0.5 F1500; (Lower into park)
+G1 E5 F300; (Unretract from last ending code)
+G0 Z0.28 F1000; (Lower into park)
 G92 E0
-G1 E5 F300; (Unretract)
+G1 X0 Y20 F500 E6 ;PRIME
 G92 E0;
-;G1 E10 F100; (prime in place) Not good on mini
-G0 X5 Y190 Z1 F1000; (Knock off prime)
 ; AND GO!!!
 G92 E0
 G92 E0
@@ -41,7 +38,7 @@ G1 F1800 E-5
 ;LAYER:0
 M107
 G1 F600 Z1.28
-;MESH:20mm_strap_lock.stl
+;MESH:Object 2
 G0 F7200 X30.99 Y27.34 Z1.28
 ;TYPE:WALL-INNER
 G1 F600 Z0.28
@@ -421,7 +418,7 @@ G1 F1200 X50.55 Y26.75 E29.95157
 G1 X33.432 Y26.75 E30.73159
 G1 X32.994 Y26.794 E30.75268
 G1 F1800 E25.75268
-;MESH:20mm_strap_lock.stl(1)
+;MESH:Object 3
 G0 F7200 X31.078 Y54.34
 ;TYPE:WALL-INNER
 G1 F1800 E30.76987 ;Adjusted e by 0.01719mm
@@ -3821,6 +3818,7 @@ G1 F1200 X110.488 Y188.977 E1195.68259
 G0 F7200 X110.518 Y189.714
 G1 F1200 X111.915 Y191.111 E1195.80457
 G0 F7200 X111.237 Y191.14
+M104 S240
 G1 F1200 X110.549 Y190.452 E1195.86465
 G1 F1800 E1190.86465
 ;MESH:NONMESH
@@ -3828,10 +3826,9 @@ G0 F600 X110.549 Y190.452 Z0.56
 G0 F7200 X30.75 Y27.1
 ;TIME_ELAPSED:1015.003303
 ;LAYER:1
-M140 S45
 M106 S127.5
 ;TYPE:WALL-INNER
-;MESH:20mm_strap_lock.stl
+;MESH:Object 2
 G1 F1800 E1195.98532 ;Adjusted e by 0.12067mm
 G1 F2700 X31.13 Y27.1 E1196.00832
 G1 X31.341 Y27.1 E1196.02109
@@ -4235,7 +4232,7 @@ G1 X30.747 Y23.759 E1234.46277
 G1 X30.702 Y24.196 E1234.48596
 G1 X30.7 Y26.665 E1234.61928
 G1 F1800 E1229.61928
-;MESH:20mm_strap_lock.stl(1)
+;MESH:Object 3
 G0 F7800 X30.75 Y54.1
 ;TYPE:WALL-INNER
 G1 F1800 E1234.63635 ;Adjusted e by 0.01707mm
@@ -7699,7 +7696,7 @@ G0 F7800 X30.75 Y27.1
 ;TIME_ELAPSED:1555.104884
 ;LAYER:2
 ;TYPE:WALL-INNER
-;MESH:20mm_strap_lock.stl
+;MESH:Object 2
 G1 F1800 E2411.30661 ;Adjusted e by 0.01537mm
 G1 F2700 X31.141 Y27.1 E2411.33028
 G1 X31.312 Y27.1 E2411.34063
@@ -8108,7 +8105,7 @@ G1 X30.741 Y23.79 E2449.71414
 G1 X30.703 Y24.199 E2449.73592
 G1 X30.7 Y26.665 E2449.86908
 G1 F1800 E2444.86908
-;MESH:20mm_strap_lock.stl(1)
+;MESH:Object 3
 G0 F7800 X30.75 Y54.1
 ;TYPE:WALL-INNER
 G1 F1800 E2449.88615 ;Adjusted e by 0.01707mm
@@ -11590,7 +11587,7 @@ G0 F7800 X30.75 Y27.1
 ;TIME_ELAPSED:2091.446634
 ;LAYER:3
 ;TYPE:WALL-INNER
-;MESH:20mm_strap_lock.stl
+;MESH:Object 2
 G1 F1800 E3625.66932 ;Adjusted e by 0.01537mm
 G1 F2700 X31.12 Y27.1 E3625.69172
 G1 X31.383 Y27.1 E3625.70764
@@ -11997,7 +11994,7 @@ G1 X30.756 Y23.705 E3664.09745
 G1 X30.703 Y24.189 E3664.12321
 G1 X30.7 Y26.665 E3664.2566
 G1 F1800 E3659.2566
-;MESH:20mm_strap_lock.stl(1)
+;MESH:Object 3
 G0 F7800 X30.75 Y54.1
 ;TYPE:WALL-INNER
 G1 F1800 E3664.27367 ;Adjusted e by 0.01707mm
@@ -15936,7 +15933,7 @@ G0 F7800 X30.75 Y27.1
 ;TIME_ELAPSED:2630.140681
 ;LAYER:4
 ;TYPE:WALL-INNER
-;MESH:20mm_strap_lock.stl
+;MESH:Object 2
 G1 F1800 E668.27782 ;Adjusted e by 0.10828mm
 G1 F2700 X31.12 Y27.1 E668.30021
 G1 X31.383 Y27.1 E668.31614
@@ -16343,7 +16340,7 @@ G1 X30.746 Y23.741 E706.71035
 G1 X30.7 Y24.599 E706.75592
 G1 X30.7 Y26.665 E706.86822
 G1 F1800 E701.86822
-;MESH:20mm_strap_lock.stl(1)
+;MESH:Object 3
 G0 F7800 X30.75 Y54.1
 ;TYPE:WALL-INNER
 G1 F1800 E706.88529 ;Adjusted e by 0.01707mm
@@ -20529,7 +20526,7 @@ G0 F7800 X30.75 Y27.1
 ;TIME_ELAPSED:2818.492211
 ;LAYER:5
 ;TYPE:WALL-INNER
-;MESH:20mm_strap_lock.stl
+;MESH:Object 2
 G1 F1800 E1099.03935 ;Adjusted e by 0.02392mm
 G1 F2700 X31.12 Y27.1 E1099.06175
 G1 X31.383 Y27.1 E1099.07767
@@ -20921,7 +20918,7 @@ G1 X30.75 Y23.723 E1137.43766
 G1 X30.7 Y24.333 E1137.47019
 G1 X30.7 Y26.665 E1137.59696
 G1 F1800 E1132.59696
-;MESH:20mm_strap_lock.stl(1)
+;MESH:Object 3
 G0 F7800 X30.75 Y54.1
 ;TYPE:WALL-INNER
 G1 F1800 E1137.61403 ;Adjusted e by 0.01707mm
@@ -88152,9 +88149,9 @@ M82 ;absolute extrusion mode
 M104 S0
 ;End of Gcode
 ;SETTING_3 {"extruder_quality": ["[general]\\nversion = 4\\nname = MP10 - Draft 
-;SETTING_3 Fast 0.5w\\ndefinition = custom\\n\\n[metadata]\\nsetting_version = 1
-;SETTING_3 1\\nquality_type = fast\\nposition = 0\\nintent_category = default\\n
-;SETTING_3 type = quality_changes\\n\\n[values]\\nacceleration_print = 1000\\nac
+;SETTING_3 Fast 0.5w\\ndefinition = custom\\n\\n[metadata]\\ntype = quality_chan
+;SETTING_3 ges\\nsetting_version = 11\\nquality_type = fast\\nintent_category = 
+;SETTING_3 default\\nposition = 0\\n\\n[values]\\nacceleration_print = 1000\\nac
 ;SETTING_3 celeration_print_layer_0 = 800\\nacceleration_travel = 1000\\nacceler
 ;SETTING_3 ation_wall = 800\\nbridge_enable_more_layers = False\\nbridge_fan_spe
 ;SETTING_3 ed_2 = 100\\nbridge_fan_speed_3 = 100\\nbridge_skin_density_2 = 100\\
@@ -88194,32 +88191,32 @@ M104 S0
 ;SETTING_3 orner_inner\\nz_seam_position = frontleft\\nz_seam_relative = True\\n
 ;SETTING_3 z_seam_type = back\\nz_seam_x = -100\\nz_seam_y = 200\\nzig_zaggify_i
 ;SETTING_3 nfill = True\\n\\n", "[general]\\nversion = 4\\nname = MP10 - Draft F
-;SETTING_3 ast 0.5w\\ndefinition = fdmprinter\\n\\n[metadata]\\nsetting_version 
-;SETTING_3 = 11\\nquality_type = fast\\nposition = 1\\nintent_category = default
-;SETTING_3 \\ntype = quality_changes\\n\\n[values]\\n\\n", "[general]\\nversion 
+;SETTING_3 ast 0.5w\\ndefinition = fdmprinter\\n\\n[metadata]\\ntype = quality_c
+;SETTING_3 hanges\\nsetting_version = 11\\nquality_type = fast\\nintent_category
+;SETTING_3  = default\\nposition = 1\\n\\n[values]\\n\\n", "[general]\\nversion 
 ;SETTING_3 = 4\\nname = MP10 - Draft Fast 0.5w\\ndefinition = fdmprinter\\n\\n[m
-;SETTING_3 etadata]\\nsetting_version = 11\\nquality_type = fast\\nposition = 2\
-;SETTING_3 \nintent_category = default\\ntype = quality_changes\\n\\n[values]\\n
+;SETTING_3 etadata]\\ntype = quality_changes\\nsetting_version = 11\\nquality_ty
+;SETTING_3 pe = fast\\nintent_category = default\\nposition = 2\\n\\n[values]\\n
 ;SETTING_3 \\n", "[general]\\nversion = 4\\nname = MP10 - Draft Fast 0.5w\\ndefi
-;SETTING_3 nition = fdmprinter\\n\\n[metadata]\\nsetting_version = 11\\nquality_
-;SETTING_3 type = fast\\nposition = 3\\nintent_category = default\\ntype = quali
-;SETTING_3 ty_changes\\n\\n[values]\\n\\n", "[general]\\nversion = 4\\nname = MP
-;SETTING_3 10 - Draft Fast 0.5w\\ndefinition = fdmprinter\\n\\n[metadata]\\nsett
-;SETTING_3 ing_version = 11\\nquality_type = fast\\nposition = 4\\nintent_catego
-;SETTING_3 ry = default\\ntype = quality_changes\\n\\n[values]\\n\\n", "[general
+;SETTING_3 nition = fdmprinter\\n\\n[metadata]\\ntype = quality_changes\\nsettin
+;SETTING_3 g_version = 11\\nquality_type = fast\\nintent_category = default\\npo
+;SETTING_3 sition = 3\\n\\n[values]\\n\\n", "[general]\\nversion = 4\\nname = MP
+;SETTING_3 10 - Draft Fast 0.5w\\ndefinition = fdmprinter\\n\\n[metadata]\\ntype
+;SETTING_3  = quality_changes\\nsetting_version = 11\\nquality_type = fast\\nint
+;SETTING_3 ent_category = default\\nposition = 4\\n\\n[values]\\n\\n", "[general
 ;SETTING_3 ]\\nversion = 4\\nname = MP10 - Draft Fast 0.5w\\ndefinition = fdmpri
-;SETTING_3 nter\\n\\n[metadata]\\nsetting_version = 11\\nquality_type = fast\\np
-;SETTING_3 osition = 5\\nintent_category = default\\ntype = quality_changes\\n\\
+;SETTING_3 nter\\n\\n[metadata]\\ntype = quality_changes\\nsetting_version = 11\
+;SETTING_3 \nquality_type = fast\\nintent_category = default\\nposition = 5\\n\\
 ;SETTING_3 n[values]\\n\\n", "[general]\\nversion = 4\\nname = MP10 - Draft Fast
-;SETTING_3  0.5w\\ndefinition = fdmprinter\\n\\n[metadata]\\nsetting_version = 1
-;SETTING_3 1\\nquality_type = fast\\nposition = 6\\nintent_category = default\\n
-;SETTING_3 type = quality_changes\\n\\n[values]\\n\\n", "[general]\\nversion = 4
+;SETTING_3  0.5w\\ndefinition = fdmprinter\\n\\n[metadata]\\ntype = quality_chan
+;SETTING_3 ges\\nsetting_version = 11\\nquality_type = fast\\nintent_category = 
+;SETTING_3 default\\nposition = 6\\n\\n[values]\\n\\n", "[general]\\nversion = 4
 ;SETTING_3 \\nname = MP10 - Draft Fast 0.5w\\ndefinition = fdmprinter\\n\\n[meta
-;SETTING_3 data]\\nsetting_version = 11\\nquality_type = fast\\nposition = 7\\ni
-;SETTING_3 ntent_category = default\\ntype = quality_changes\\n\\n[values]\\n\\n
+;SETTING_3 data]\\ntype = quality_changes\\nsetting_version = 11\\nquality_type 
+;SETTING_3 = fast\\nintent_category = default\\nposition = 7\\n\\n[values]\\n\\n
 ;SETTING_3 "], "global_quality": "[general]\\nversion = 4\\nname = MP10 - Draft 
-;SETTING_3 Fast 0.5w\\ndefinition = custom\\n\\n[metadata]\\nsetting_version = 1
-;SETTING_3 1\\nquality_type = fast\\ntype = quality_changes\\n\\n[values]\\nacce
+;SETTING_3 Fast 0.5w\\ndefinition = custom\\n\\n[metadata]\\ntype = quality_chan
+;SETTING_3 ges\\nsetting_version = 11\\nquality_type = fast\\n\\n[values]\\nacce
 ;SETTING_3 leration_enabled = False\\nadhesion_type = none\\nbridge_settings_ena
 ;SETTING_3 bled = True\\nflow_rate_max_extrusion_offset = 0\\njerk_enabled = Fal
 ;SETTING_3 se\\nlayer_height = 0.28\\nlayer_height_0 = 0.28\\nmaterial_bed_tempe
