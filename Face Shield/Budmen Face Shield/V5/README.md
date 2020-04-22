@@ -3,7 +3,7 @@
 ## Each mask consists of:
 **1 x** [3D-files/face-shield.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/USCBM_Faceshield-V5.stl)
 
-**2 x** [3D-files/strap-lock.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/strap-lock.stl) ( We got a large amount of 1/4" elastic and are **back to** using the [1/4" strap lock](3D-files/strap-lock.stl))
+**2 x** [3D-files/20mm_strap_lock.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/20mm_strap_lock.stl) ( We are not using the [1/4" strap lock](3D-files/strap-lock.stl) at this time)
 
 **1 x** 0.005in thick poly sheet cut to template: [polysheet-templates/Cedars_Budmen_shield_v1.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V5/polysheet-templates/Cedars_Budmen_shield_v1.pdf) 
 
