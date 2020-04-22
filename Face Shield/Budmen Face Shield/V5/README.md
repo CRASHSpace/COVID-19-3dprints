@@ -36,4 +36,4 @@ This can be recorded [here](https://airtable.com/shrZCoERKFkLPPHIm), or written 
 Cedars-Sinai evaluated and approved this design, as did USC Keck. They evaluated V4 and **disapproved** due to the shield clips preventing larger shields from being used.
 
 ### Source:
-Budmen: [https://budmen.com/](https://budmen.com/)
+This is a **modified** version of the Budmen design, allowing for larger shields (cutout patterns are not interchangable): [https://budmen.com/](https://budmen.com/)
