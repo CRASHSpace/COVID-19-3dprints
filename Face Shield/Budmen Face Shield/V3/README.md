@@ -1,5 +1,10 @@
 # Budmen V3 Face Shields for Cedars-Sinai and USC Keck
 
+# DEPRECATED. Print [V5](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5) instead
+
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5)
+
+<del>
 ## Each mask consists of:
 **1 x** [3D-files/face-shield.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/3D-files/face-shield.stl)
 
@@ -19,23 +24,9 @@ Laser template: [polysheet-templates/Budmen_Cedars_shield_v1cut.pdf](https://git
 
 **Prusa pre-laid 3MF:** [3D-files/BudmenV3_2face_shields-Pre-laid-out.3mf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/3D-files/BudmenV3_2face_shields-Pre-laid-out.3mf)
 
-## Did you print one?
-They would also like to know the following:
-
-Name/Company (opt.)
-
-Date
-
-Qty
-
-Printer type
-
-Print materials
-
-This can be recorded [here](https://airtable.com/shrZCoERKFkLPPHIm), or written and submitted with prints.
-
 ### Information on Request:
 Cedars-Sinai evaluated and approved this design, as did USC Keck. They evaluated V4 and **disapproved** due to the shield clips preventing larger shields from being used.
 
 ### Source:
 Budmen: [https://budmen.com/](https://budmen.com/)
+</del>
