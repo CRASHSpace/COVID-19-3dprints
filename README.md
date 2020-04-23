@@ -68,6 +68,8 @@ Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be
 ## PRINT: Ear Savers
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Ear%20Savers](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Ear%20Savers)
 
+![Ear Saver](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/EarSaver.jpg)
+
 NEEDED: 350
 
 ## PRINT: Face Masks

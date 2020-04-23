@@ -1,4 +1,5 @@
 # Ear Savers
+![Ear Saver](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/EarSaver.jpg)
 
 ## One part print:
 **1 x** [CS CutOut Ear Saver.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Ear%20Savers/CS%20CutOut%20Ear%20Saver.stl)
