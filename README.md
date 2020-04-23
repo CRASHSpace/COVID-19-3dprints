@@ -78,7 +78,7 @@ NEEDED: 350
 ![Face Mask Assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render_small.png)
 
 ## SEW: Face Masks
-[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_SewnMask-Instructions_v9](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_SewnMask-Instructions_v9)
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_SewnMask-Instructions_v9.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_SewnMask-Instructions_v9.pdf)
 
 ![Sewn Face Mask](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/sewnFacemask.jpg)
 
