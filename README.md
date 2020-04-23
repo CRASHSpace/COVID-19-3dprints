@@ -78,11 +78,9 @@ NEEDED: 350
 ![Face Mask Assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render_small.png)
 
 ## SEW: Face Masks
-[https://laprotects.org/#manufacturers](https://laprotects.org/#manufacturers)
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_SewnMask-Instructions_v9](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_SewnMask-Instructions_v9)
 
 ![Sewn Face Mask](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/sewnFacemask.jpg)
-
-[PDF instructions (backup)](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sewn%20Face%20Mask/COVID_Mask-Manufacturer-Packet.pdf)
 
 ## STANDBY: 3DVerkstan Face Shields V5
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/3DVerkstan](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/3DVerkstan)
