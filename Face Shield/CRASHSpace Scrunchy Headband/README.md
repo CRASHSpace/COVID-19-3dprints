@@ -8,6 +8,6 @@ Print!
 The shortage of elastic is causing us to reconsider how to attach the shields to workers heads. This design requires no elastic and is faster to assemble than with elastic.
 
 
-[CRASHSpace Scrunchy for Budmen Sheild - Large version](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband/Crashspace_scrunchy-Budmen-Largev1.STL)
+[CRASHSpace Scrunchy for Budmen Sheild - Large version - STL](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband/Crashspace_scrunchy-Budmen-Largev1.STL)
 
-[CRASHSpace Scrunchy for Budmen Sheild - Small version](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband/Crashspace_scrunchy-Budmen-Smallv1.STL)
+[CRASHSpace Scrunchy for Budmen Sheild - Small version - STL](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband/Crashspace_scrunchy-Budmen-Smallv1.STL)
