@@ -11,3 +11,5 @@ The shortage of elastic is causing us to reconsider how to attach the shields to
 [CRASHSpace Scrunchy for Budmen Sheild - Large version - STL](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband/Crashspace_scrunchy-Budmen-Largev1.STL)
 
 [CRASHSpace Scrunchy for Budmen Sheild - Small version - STL](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband/Crashspace_scrunchy-Budmen-Smallv1.STL)
+
+This design is based off the design of [FaceShield.us](https://FaceShield.us). Thanks Peter Vikar!
