@@ -1,6 +1,8 @@
 # CRASHSpace Scrunchy Headband for Budmen Shield
 Print!
 
+This is a replacement for the elastic band on the Budmen design. This scrunchy snaps into place and tensions around the user's head to keep the mask firmly in place.
+
 ![CRASHSpace Scrunchy Headband](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/CS_scrunchy_assem.png)
 
 ![CRASHSpace Scrunchy Headband](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/CS_scrunchy_blue_kevin.png)
