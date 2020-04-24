@@ -32,6 +32,8 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 [PRINT: Ear Savers](#print-ear-savers) -- ADDED 4/23/2020
 
+[PRINT: Budmen Scrunchie strap](#print-budmen-scrunchie-strap) -- ADDED 4/24/2020
+
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
 
 [SEW: Face Masks](#sew-face-masks) -- ADDED 4/1/2020
@@ -71,6 +73,10 @@ Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be
 ![Ear Saver](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/EarSaver.jpg)
 
 NEEDED: 350
+
+## PRINT: Budmen Scrunchie strap
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband)
+
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
