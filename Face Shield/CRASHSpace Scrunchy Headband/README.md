@@ -17,4 +17,14 @@ Suggest printing in PETG for flexibility.
 [CRASHSpace Scrunchy Headband for Budmen Sheild - Small version - STL](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband/Crashspace_scrunchy-Budmen-Smallv1.STL)
 
 
+
+
+While printing, please set your seam to "Rear" or not on the path. Here is an example with what happens with another scrunchy type design:
+![Rear Seam](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/scrunchy_seam.png)
+
+The scrunchy printed with the seam not on the end looks like this:
+
+![Weak Seam](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/scrunchy-seam1.jpg)
+
+
 This design is based off the design of [FaceShield.us](https://FaceShield.us). Thanks Peter Vikar!
