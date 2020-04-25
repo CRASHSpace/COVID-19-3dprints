@@ -19,10 +19,11 @@ Suggest printing in PETG for flexibility.
 
 
 
-While printing, please set your seam to "Rear" or not on the path. Here is an example with what happens with another scrunchy type design:
+While printing, please set your seam to "Rear" or not on the path. 
 ![Rear Seam](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/scrunchy_seam.png)
 
-The scrunchy printed with the seam not on the end looks like this:
+
+Here is an example with what happens with another scrunchy type design:
 
 ![Weak Seam](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/scrunchy-seam1.jpg)
 
