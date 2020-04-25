@@ -1,0 +1,23 @@
+
+# Folders
+
+local/
+local/**
+Obsolete
+temp/
+temp/**
+Archive/
+Archive/**
+Test/
+Test/**
+
+
+# File Types
+*.tmp
+*.usr
+*.bak
+#*.ini
+*.code-workspace
+*.DS_Store
+*.crash
+*.mac
