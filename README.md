@@ -28,7 +28,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 [HOLE PUNCH: Verkman Shields](#hole-punch-verkman-shields) -- ADDED 4/8/2020
 
 ### (4/23) Print recommendation is [Budmen V5](#print-budmen-face-shields-v5) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-ear-savers) at the end of spools.
-[PRINT: Budmen Face Shields](#print-budmen-face-shields-v5) -- USING 20mm STRAP LOCK 4/22/2020
+[PRINT: Budmen Face Shields](#print-budmen-face-shields-v5) -- BAG 20mm STRAP LOCKS SEPARATELY. PRINT *2* per visor 4/27/2020
 
 [PRINT: Ear Savers](#print-ear-savers) -- ADDED 4/23/2020
 
@@ -36,7 +36,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
 
-[SEW: Face Masks](#sew-face-masks) -- ADDED 4/1/2020
+[SEW: Face Masks](#sew-face-masks) -- UPDATED WITH INSTRUCTIONS 4/23/2020
 
 [STANDBY: 3DVerkstan Face Shields V5](#standby-3dverkstan-face-shields-v5)
 
@@ -64,6 +64,8 @@ Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5)
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
+
+
 
 **Cedars and Keck approved** for immediate use.
 
