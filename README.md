@@ -19,16 +19,16 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 **If you'd like a donation receipt**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
-#### (4/29) We have stable supplies of these now ~~Things we need~~
+#### (4/29) We have stable supplies of these now. ~~Things we need~~
 <del>
 
 1/2" - 1" LATEX FREE ELASTIC: Synthetic rubber is okay. If it doesn't say whether it's latex-free, it isn't. -- SIZE UPDATED 4/23/2020
 
 (4/8) Clear sheets for face shields. If you can cut them, even better.
 
-[LASER CUT: Budmen Shields](#laser-cut-cedars-budmen-shields) -- ADDED 4/8/2020
+[LASER CUT: Budmen Shields](#laser-cut-reference-only-cedars-budmen-shields) -- ADDED 4/8/2020
 
-[HOLE PUNCH: Verkman Shields](#hole-punch-verkman-shields) -- ADDED 4/8/2020
+[HOLE PUNCH: Verkman Shields](#hole-punch-reference-only-verkstan-shields) -- ADDED 4/8/2020
 
 </del>
 
@@ -52,18 +52,6 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 [Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
 
 ---
-
-## LASER CUT: Cedars Budmen Shields
-If you have clear sheets 10" x 12" or larger, we are cutting them to this shape: [Cedars Budmen shield template](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1.pdf)
-
-**Note:** Our template is different from the stock Budmen shield.
-
-Laser template here: [Cedars_Budmen_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1cut.pdf)
-
-## HOLE PUNCH: Verkman Shields
-If you have clear sheets 8.5" x 11", we are 3-hole punching them to this shape: [Verkstan V5 3 Hole Punch](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf)
-
-Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be)
 
 ## PRINT: Budmen Face Shields V5 
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5)
@@ -113,5 +101,17 @@ Just informational. **USC Keck evaluated**, and chose the Budmen design instead.
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield)
 
 ![SMP Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
+
+## LASER CUT (reference only): Cedars Budmen Shields
+We are having these stamped in volume now, so no need to laser cut them for us. If you are making some of your own or for others, use clear sheets cut to this shape: [Cedars Budmen shield template](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1.pdf)
+
+**NOTE:** Our template is different from the stock Budmen shield.
+
+Laser template here: [Cedars_Budmen_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1cut.pdf)
+
+## HOLE PUNCH (reference only): Verkstan Shields
+We have enough Verkstan shields to meet current demand. If you are making some of your own or for others, use clear 8.5" x 11" sheets, 3-hole punched to this shape: [Verkstan V5 3 Hole Punch](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf)
+
+Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be)
 
 # THANK YOU. Yes, you.
