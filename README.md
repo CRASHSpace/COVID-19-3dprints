@@ -8,8 +8,8 @@ Let us know if you can help at covid@crashspace.org or on [this volunteer form](
 
 *This repo will stay updated with the latest information and source files.*
 
-### **(4/9) Delivery:** Dropzone moved to 6323 W 80th St, Los Angeles, CA 90045.
-Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). USC Keck has enough supplies now to tide them over (Great work everyone!), so *no need to mail prints to them*.
+### **(4/9) Delivery:** 6323 W 80th St, Los Angeles, CA 90045.
+Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). USC Keck has enough for now to tide them over (Great work everyone!), so *no need to mail prints to them*.
 
 ![Dropzone outside](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/Dropzone_Outside.jpg)
 
@@ -32,7 +32,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 </del>
 
-### (4/23) Print recommendation is [Budmen V5](#print-budmen-face-shields-v5) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-ear-savers) at the end of spools.
+### (4/23) Print recommendation is [Budmen V5](#print-budmen-face-shields-v5) or [Ear Savers](#print-ear-savers) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-ear-savers) at the end of spools.
 [PRINT: Budmen Face Shields](#print-budmen-face-shields-v5) -- BAG 20mm STRAP LOCKS SEPARATELY. PRINT **2** per visor 4/27/2020
 
 [PRINT: Ear Savers](#print-ear-savers) -- ADDED 4/23/2020
@@ -58,8 +58,6 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
 
-
-
 **Cedars and Keck approved** for immediate use.
 
 ## PRINT: Ear Savers
@@ -67,11 +65,10 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 ![Ear Saver](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/EarSaver.jpg)
 
-NEEDED: 350
+Every recipient wants these. Mask bands not tugging on ears --> More comfortable --> Wear the mask longer (**safer**) --> Adjust the mask less (**safer**). If you have a smaller printer, making these is a great way to help.
 
 ## PRINT: Budmen Scrunchie strap
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband)
-
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
