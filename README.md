@@ -15,9 +15,9 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 ![Dropzone doorway drop](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/Dropzone_Doorway.jpg)
 
-**If you make something**, please let us know here (We love pictures!): [https://airtable.com/shrZCoERKFkLPPHIm](https://airtable.com/shrZCoERKFkLPPHIm)
+**IF YOU MAKE SOMETHING**, please let us know here (We love pictures!): [https://airtable.com/shrZCoERKFkLPPHIm](https://airtable.com/shrZCoERKFkLPPHIm)
 
-**If you'd like a donation receipt**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
+**IF YOU'D LIKE A DONATION RECEIPT**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
 ### (4/29) We have stable supplies of these now: ~~Things we need:~~
 <del>
