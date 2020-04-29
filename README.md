@@ -19,7 +19,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 **If you'd like a donation receipt**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
-#### (4/29) We have stable supplies of these now. ~~Things we need~~
+### (4/29) We have stable supplies of these now: ~~Things we need:~~
 <del>
 
 1/2" - 1" LATEX FREE ELASTIC: Synthetic rubber is okay. If it doesn't say whether it's latex-free, it isn't. -- SIZE UPDATED 4/23/2020
@@ -28,7 +28,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 [LASER CUT: Budmen Shields](#laser-cut-reference-only-cedars-budmen-shields) -- ADDED 4/8/2020
 
-[HOLE PUNCH: Verkman Shields](#hole-punch-reference-only-verkstan-shields) -- ADDED 4/8/2020
+[HOLE PUNCH: Verkstan Shields](#hole-punch-reference-only-verkstan-shields) -- ADDED 4/8/2020
 
 </del>
 
@@ -103,9 +103,7 @@ Just informational. **USC Keck evaluated**, and chose the Budmen design instead.
 ![SMP Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
 
 ## LASER CUT (reference only): Cedars Budmen Shields
-We are having these stamped in volume now, so no need to laser cut them for us. If you are making some of your own or for others, use clear sheets cut to this shape: [Cedars Budmen shield template](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1.pdf)
-
-**NOTE:** Our template is different from the stock Budmen shield.
+We are having these stamped in volume now, so no need to laser cut them for us. If you are making some of your own or for others, use clear sheets cut to this shape: [Cedars Budmen shield template](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1.pdf). **NOTE:** Our template is different from the stock Budmen shield.
 
 Laser template here: [Cedars_Budmen_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1cut.pdf)
 
