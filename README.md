@@ -19,16 +19,19 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 **If you'd like a donation receipt**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
-## (4/23) Things we need:
+#### (4/29) We have stable supplies of these now ~~Things we need~~
+<del>
 1/2" - 1" LATEX FREE ELASTIC: Synthetic rubber is okay. If it doesn't say whether it's latex-free, it isn't. -- SIZE UPDATED 4/23/2020
 
-#### (4/8) Clear sheets for face shields. If you can cut them, even better.
+(4/8) Clear sheets for face shields. If you can cut them, even better.
+
 [LASER CUT: Budmen Shields](#laser-cut-cedars-budmen-shields) -- ADDED 4/8/2020
 
 [HOLE PUNCH: Verkman Shields](#hole-punch-verkman-shields) -- ADDED 4/8/2020
+</del>
 
 ### (4/23) Print recommendation is [Budmen V5](#print-budmen-face-shields-v5) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-ear-savers) at the end of spools.
-[PRINT: Budmen Face Shields](#print-budmen-face-shields-v5) -- BAG 20mm STRAP LOCKS SEPARATELY. PRINT *2* per visor 4/27/2020
+[PRINT: Budmen Face Shields](#print-budmen-face-shields-v5) -- BAG 20mm STRAP LOCKS SEPARATELY. PRINT **2** per visor 4/27/2020
 
 [PRINT: Ear Savers](#print-ear-savers) -- ADDED 4/23/2020
 
