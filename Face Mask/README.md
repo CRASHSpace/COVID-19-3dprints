@@ -18,8 +18,16 @@ Above linked files are maintained by USC Keck, from [this source](https://drive.
 
 **Print Ratio:** 2 Medium masks : 1 Large mask
 
-**[Assembly Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/Face%20Mask/Pseudo%20N95%203D%20Printed%20Masks.pdf)** - DO NOT assemble if delivering to USC Keck. This is for assembling one for yourself.
+## Parts you need to assemble:
+DO NOT assemble if delivering to USC Keck. This is for assembling one for yourself.
 
+* [Frost King 5/16" x1/4" D Profile Premium Rubber Self-Stick Weatherseal](https://smile.amazon.com/Frost-King-Self-Stick-Weatherseal-D-Section/dp/B000B4N3O0/ref=sr_1_1?keywords=Frost+King+5%2F16%22+x1%2F4%22+D+Profile+Premium+Rubber+Self-Stick+Weatherseal&qid=1585453260&s=home-garden&sr=1-1). 
+* [Honeywell HEPA filter model HRF201B](https://smile.amazon.com/Flintar-Replacement-Compatible-Honeywell-HRF201B/dp/B07SQ5NHJ7/ref=sr_1_5)
+* 1/4" or 1/2" Elastic
+
+**[Assembly Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/blob/master/Face%20Mask/Pseudo%20N95%203D%20Printed%20Masks.pdf)**  
+
+**[Assembly Video - Youtube](https://www.youtube.com/watch?v=TImIaytAqlc&feature=youtu.be)**
 
 ## Did you print one?
 They would also like to know the following:
