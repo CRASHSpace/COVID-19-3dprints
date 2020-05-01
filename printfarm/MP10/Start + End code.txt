@@ -1,0 +1,60 @@
+;
+; Crashspace Printer Farm MP10 (C. Nicks Start Code + John Gwinner Probe Code)
+;______________________________________________
+;Sliced at: {day} {date} {time}
+;Layer Height: {layer_height}
+;Line Width: {line_width}
+;Flow: {material_flow}
+;Z-Hop: {retraction_hop_enabled}
+;______________________________________________
+;
+M140 S{material_bed_temperature_layer_0} ; set bed temp
+M104 S160.0 T0 ; set extruder park temp to warm but not ooze during bed probing
+M190 S{material_bed_temperature_layer_0} ; wait for bed temp
+; Try to grab the ooze off the nozzle here before probing around
+G28 ; home all axis
+G29 P1; probes mesh
+G29 P3; fill in mesh that can't be reached is good
+G29 S0 ; save mesh
+G29 F 10.0 ;prints linear above this height
+G29 A ; use UBL
+M104 S{material_print_temperature_layer_0} T0 ; set extruder temp
+G92 E0;(Reset the extruder to 0)
+G0 X0 Y30 Z2 F1500; (set into park)
+M109 S{material_print_temperature_layer_0} T0 ; wait for extruder temp
+G92 E0
+G1 E7 F300; (Unretract from last ending code, plus add some for ooze)
+;PRIME
+G0 X0 Y30 Z0.2 F1500; (Knock off ooze)
+G0 X2 Y30 Z0.4 F1500; (Knock off ooze)
+G0 X3 Y30 Z1.0 F1500; (Knock off ooze)
+G0 X5 Y30 Z{layer_height_0} F1000; (Lower into prime)
+G91
+G1 X5 Y+20 F1000 E5  ;PRIME
+G1 X+{line_width} ;PRIME
+G1 Y-20 F1000 E5  ;PRIME
+G90
+G92 E0
+G0 X0 Y20 F1500; (Knock off ooze)
+G0 X0 Y20 Z0.2 F1500; (Knock off ooze)
+G0 X2 Y20 Z0.4 F1500; (Knock off ooze)
+G0 X3 Y20 Z1.0 F1500; (Knock off ooze)
+G92 E0
+;AND GO!!!!
+
+
+
+;_______________________________________________
+;END CODE (C. Nicks)
+M106 S240; fan cool heater to reduce ooze
+M104 S100; set extruder heater low
+M140 S0; Bed heater off
+G92 Z0 E5; (Set extruder to 5)
+G1 E0 F1800; (retract 5mm)
+G0 Z5 F1000; move up 5mm
+G0 X0 Y280; (Stick out the part)
+G4 S60; Wait 1 minute to reduce nozzle temps with fan
+M106 S1; fan off
+M104 S0; set extruder heater off
+M84; steppers off
+;________________________________________
