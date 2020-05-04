@@ -32,8 +32,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 </del>
 
-### (4/29) Print recommendation is [Budmen V5](#print-budmen-face-shields-v5) or [Ear Savers](#print-ear-savers) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-ear-savers) at the end of spools.
-[PRINT: Budmen Face Shields](#print-budmen-face-shields-v5) -- BAG 20mm STRAP LOCKS (big ones) SEPARATELY. PRINT **2** PER VISOR 4/27/2020
+### (5/4) Print recommendation is [Ear Savers](#print-ear-savers) or [Budmen Scrunchie strap](#print-budmen-scrunchie-strap) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-ear-savers) at the end of spools.
 
 [PRINT: Ear Savers](#print-ear-savers) -- ADDED 4/23/2020
 
@@ -42,6 +41,11 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
 
 [SEW: Face Masks](#sew-face-masks) -- UPDATED WITH INSTRUCTIONS 4/23/2020
+
+
+[PRINT (low priority): Budmen Face Shields](#print-budmen-face-shields-v5) -- BAG 20mm STRAP LOCKS (big ones) SEPARATELY. PRINT **2** PER VISOR 4/27/2020 - 
+Update 5/4/2020 - We currently have a good stock of Budmen 3d prints and are working to get them to front lines. This is now a lower priority
+
 
 [STANDBY: 3DVerkstan Face Shields V5](#standby-3dverkstan-face-shields-v5)
 
