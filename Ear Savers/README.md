@@ -6,6 +6,15 @@
 
 **Print material:** PETG or PLA
 
+## Or Laser Cut:
+**Full sheets** 
+
+[EarSaversFullsheet_CS_v2.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Ear%20Savers/EarSaversFullsheet_CS_v2.pdf)
+
+[EarSaversFullsheet_CS_v2.ai](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Ear%20Savers/EarSaversFullsheet_CS_v2.ai)
+
+**1 x** [EarSaversSingle_CS.ai](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Ear%20Savers/EarSaversSingle_CS.ai)
+
 ## Did you print one?
 They would also like to know the following:
 

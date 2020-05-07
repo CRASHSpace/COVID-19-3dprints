@@ -34,14 +34,13 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 ### (5/4) Print recommendation is [Ear Savers](#print-ear-savers) or [Budmen Scrunchie strap](#print-budmen-scrunchie-strap) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-ear-savers) at the end of spools.
 
-[PRINT: Ear Savers](#print-ear-savers) -- ADDED 4/23/2020
+[PRINT OR LASER CUT: Ear Savers](#print-or-laser-cut-ear-savers) -- ADDED LASER CUT FILES 5/7/2020
 
 [PRINT: Budmen Scrunchie strap](#print-budmen-scrunchie-strap) -- ADDED 4/24/2020
 
 [PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
 
 [SEW: Face Masks](#sew-face-masks) -- UPDATED WITH INSTRUCTIONS 4/23/2020
-
 
 [PRINT (low priority): Budmen Face Shields](#print-budmen-face-shields-v5) -- BAG 20mm STRAP LOCKS (big ones) SEPARATELY. PRINT **2** PER VISOR 4/27/2020 - 
 Update 5/4/2020 - We currently have a good stock of Budmen 3d prints and are working to get them to front lines. This is now a lower priority
@@ -64,7 +63,7 @@ Update 5/4/2020 - We currently have a good stock of Budmen 3d prints and are wor
 
 **Cedars and Keck approved** for immediate use.
 
-## PRINT: Ear Savers
+## PRINT OR LASER CUT: Ear Savers
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Ear%20Savers](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Ear%20Savers)
 
 ![Ear Saver](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/EarSaver.jpg)
