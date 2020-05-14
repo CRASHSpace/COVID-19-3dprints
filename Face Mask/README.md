@@ -1,12 +1,14 @@
 # Face Masks for USC Keck — V3a updated 5/13
 ![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
 
+### Only Large prints needed at the moment (5/13)
+
 ## Each mask consists of:
 **1 x** [USCSW-Filtered_Mask-v3L.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW-Filtered_Mask-v3L.stl) **OR**
 
-[USCSW-Filtered_Mask-v3M.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW-Filtered_Mask-v3M.stl) **OR**
+~~[USCSW-Filtered_Mask-v3M.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW-Filtered_Mask-v3M.stl) **OR**~~
 
-[USCSW-Filtered_Mask-v3S.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW-Filtered_Mask-v3S.stl)
+~~[USCSW-Filtered_Mask-v3S.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW-Filtered_Mask-v3S.stl)~~
 
 **1 x** [USCSW_Nose_Cap_v3.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW_Nose_Cap_v3.stl)
 
@@ -22,7 +24,7 @@ USCSW_gasket_x5S.stl, USCSW_gasket_x5M.stl and USCSW_gasket_x5L.stl are for mold
 
 **Suggested settings:** *Largest layer size option, up to 0.6mm DRAFT* with *~10% infill*.
 
-**Print Ratio:** 2 Medium masks : 1 Large mask
+**Print Ratio:** Large masks only at the moment (5/13)
 
 ## Parts you need to assemble:
 DO NOT assemble if delivering to USC Keck. This is for assembling one for yourself.
