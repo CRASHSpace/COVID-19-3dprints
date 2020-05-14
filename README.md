@@ -32,13 +32,13 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 </del>
 
-### (5/4) Print recommendation is [Ear Savers](#print-ear-savers) or [Budmen Scrunchie strap](#print-budmen-scrunchie-strap) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-ear-savers) at the end of spools.
+### (5/4) Print recommendation is [Ear Savers](#print-or-laser-cut-ear-savers) or [Budmen Scrunchie strap](#print-budmen-scrunchie-strap) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-or-laser-cut-ear-savers) at the end of spools.
 
 [PRINT OR LASER CUT: Ear Savers](#print-or-laser-cut-ear-savers) -- ADDED LASER CUT FILES 5/7/2020
 
 [PRINT: Budmen Scrunchie strap](#print-budmen-scrunchie-strap) -- ADDED 4/24/2020
 
-[PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 4/3/2020
+[PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 5/13/2020
 
 [SEW: Face Masks](#sew-face-masks) -- UPDATED WITH INSTRUCTIONS 4/23/2020
 
