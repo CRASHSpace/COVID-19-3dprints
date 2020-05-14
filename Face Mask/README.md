@@ -8,7 +8,7 @@
 
 ~~[USCSW-Filtered_Mask-v3M.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW-Filtered_Mask-v3M.stl) **OR**~~
 
-~~[USCSW-Filtered_Mask-v3S.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW-Filtered_Mask-v3S.stl)~~
+~~[USCSW-Filtered_Mask-v3S.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW-Filtered_Mask-v3S.stl)~~,
 
 **1 x** [USCSW_Nose_Cap_v3.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW_Nose_Cap_v3.stl)
 
