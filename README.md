@@ -38,7 +38,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 [PRINT: Budmen Scrunchie strap](#print-budmen-scrunchie-strap) -- ADDED 4/24/2020
 
-[PRINT: Face Masks](#print-face-masks) -- STL FILES UPDATED 5/13/2020
+[PRINT: Face Masks](#print-face-masks) -- STL FILES AND RATIO UPDATED 5/13/2020
 
 [SEW: Face Masks](#sew-face-masks) -- UPDATED WITH INSTRUCTIONS 4/23/2020
 
@@ -75,6 +75,8 @@ Every recipient wants these. Mask bands not tugging on ears --> More comfortable
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
+
+**Large size only at the moment (5/13)**
 
 ![Face Mask Assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render_small.png)
 
