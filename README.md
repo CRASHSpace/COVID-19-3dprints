@@ -35,7 +35,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 [DELIVERED: Laser Cut Aerosol Box](#delivered-laser-cut-aerosol-box)
 
-[DON'T PRINT: SMP Face Shield](#dont-print-smp-face-shield) -- UPDATED 4/1/2020 to DON'T PRINT
+[DON'T PRINT: SMP Face Shield](#dont-print-smp-face-shield) -- UPDATED 4/1 to DON'T PRINT
 
 [Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
 
