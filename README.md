@@ -26,13 +26,10 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 (4/8) Clear sheets for face shields. If you can cut them, even better.
 
-[LASER CUT: Budmen Shields](#laser-cut-reference-only-cedars-budmen-shields) -- ADDED 4/8/2020
-
-[HOLE PUNCH: Verkstan Shields](#hole-punch-reference-only-verkstan-shields) -- ADDED 4/8/2020
 
 </del>
 
-### (5/4) Print recommendation is [Ear Savers](#print-or-laser-cut-ear-savers) or [Budmen Scrunchie strap](#print-budmen-scrunchie-strap) while attended, [Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-or-laser-cut-ear-savers) at the end of spools.
+### (5/15) Print recommendation is [Ear Savers](#print-or-laser-cut-ear-savers) or [Budmen Scrunchie strap](#print-budmen-scrunchie-strap) while attended, [Large Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-or-laser-cut-ear-savers) at the end of spools.
 
 [PRINT OR LASER CUT: Ear Savers](#print-or-laser-cut-ear-savers) -- ADDED LASER CUT FILES 5/7/2020
 
@@ -42,9 +39,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 [SEW: Face Masks](#sew-face-masks) -- UPDATED WITH INSTRUCTIONS 4/23/2020
 
-[PRINT (low priority): Budmen Face Shields](#print-budmen-face-shields-v5) -- BAG 20mm STRAP LOCKS (big ones) SEPARATELY. PRINT **2** PER VISOR 4/27/2020 - 
-Update 5/4/2020 - We currently have a good stock of Budmen 3d prints and are working to get them to front lines. This is now a lower priority
-
+[STANDBY: Budmen Face Shields](#standby-budmen-face-shields-v5) -- CHANGED TO STANDBY 5/15/2020
 
 [STANDBY: 3DVerkstan Face Shields V5](#standby-3dverkstan-face-shields-v5)
 
@@ -56,22 +51,19 @@ Update 5/4/2020 - We currently have a good stock of Budmen 3d prints and are wor
 
 ---
 
-## PRINT: Budmen Face Shields V5 
-[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5)
-
-![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
-
-**Cedars and Keck approved** for immediate use.
-
 ## PRINT OR LASER CUT: Ear Savers
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Ear%20Savers](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Ear%20Savers)
 
 ![Ear Saver](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/EarSaver.jpg)
 
-Every recipient wants these. Mask bands not tugging on ears --> More comfortable --> Wear the mask longer (**safer**) --> Adjust the mask less (**safer**). If you have a smaller printer, making these is a great way to help.
+Every recipient wants these. Mask bands not tugging on ears --> More comfortable --> Wear the mask longer (**safer**) --> Adjust the mask less (**safer**). If you have a smaller printer, making these is a perfect way to help.
 
 ## PRINT: Budmen Scrunchie strap
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband)
+
+![Budmen Scrunchie Strap](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/CS_scrunchy_blue_kevin.png)
+
+These are more easily sanitized than an elastic strap, and are going to remote hospitals. PET or PETG only.
 
 ## PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
@@ -85,10 +77,23 @@ Every recipient wants these. Mask bands not tugging on ears --> More comfortable
 
 ![Sewn Face Mask](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/sewnFacemask.jpg)
 
+## STANDBY: Budmen Face Shields V5 
+[https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5)
+
+![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
+
+Cedars and Keck approved for immediate use. While we clear some inventory, shift focus to [Ear Savers](#print-or-laser-cut-ear-savers).
+
+*If you are making some for yourself or another group*, use clear sheets cut to this shape: [Cedars Budmen shield template](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1.pdf). **NOTE:** Our template is different from the stock Budmen shield. Laser template here: [Cedars_Budmen_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1cut.pdf)
+
 ## STANDBY: 3DVerkstan Face Shields V5
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/3DVerkstan](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/3DVerkstan)
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_3DVerkstanV5_small.jpg)
+
+We have enough Verkstan shields to meet current demand.
+
+*If you are making some for yourself or another group*, use clear 8.5" x 11" sheets for the shield, 3-hole punched to this shape: [Verkstan V5 3 Hole Punch](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf). Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be)
 
 ## DELIVERED: Laser Cut Aerosol Box
 [https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Cedars%20Aerosol%20Box)
@@ -103,15 +108,5 @@ Just informational. **USC Keck evaluated**, and chose the Budmen design instead.
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/SMP%20Face%20Shield)
 
 ![SMP Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_USCV3-render_small.png)
-
-## LASER CUT (reference only): Cedars Budmen Shields
-We are having these stamped in volume now, so no need to laser cut them for us. If you are making some of your own or for others, use clear sheets cut to this shape: [Cedars Budmen shield template](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1.pdf). **NOTE:** Our template is different from the stock Budmen shield.
-
-Laser template here: [Cedars_Budmen_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1cut.pdf)
-
-## HOLE PUNCH (reference only): Verkstan Shields
-We have enough Verkstan shields to meet current demand. If you are making some of your own or for others, use clear 8.5" x 11" sheets, 3-hole punched to this shape: [Verkstan V5 3 Hole Punch](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf)
-
-Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be)
 
 # THANK YOU. Yes, you.
