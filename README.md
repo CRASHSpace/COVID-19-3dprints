@@ -1,15 +1,15 @@
 # COVID-19 3D prints and projects
 
-COVID-19 is impacting medical professionals hard. If you are around L.A. and have a 3D printer or other fabrication tools, **we need your help.** CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. You can read about our full efforts here: [https://blog.crashspace.org/covid/](https://blog.crashspace.org/covid/)
+COVID-19 is impacting medical professionals hard. If you are around L.A. and have a 3D printer or other fabrication tools, **we need your help.** CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. You can read about our full efforts here: [https://covid.crashspace.org](https://covid.crashspace.org)
 
 Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
-### [(4/10) WE LAUNCHED OUR GOFUNDME!](https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19)
-
 *This repo will stay updated with the latest information and source files.*
 
+### [(4/10) We launched our GoFundMe!](https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19)
+
 ### **(4/9) Drop off:** 6323 W 80th St, Los Angeles, CA 90045.
-Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles). USC Keck has enough for now to tide them over (Great work everyone!), so *no need to mail prints to them*.
+Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
 
 ![Dropzone outside](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/Dropzone_Outside.jpg)
 
@@ -19,27 +19,17 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 **IF YOU'D LIKE A DONATION RECEIPT**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
-### (4/29) We have stable supplies of these now: ~~Things we need:~~
-<del>
-
-1/2" - 1" LATEX FREE ELASTIC: Synthetic rubber is okay. If it doesn't say whether it's latex-free, it isn't. -- SIZE UPDATED 4/23/2020
-
-(4/8) Clear sheets for face shields. If you can cut them, even better.
-
-
-</del>
-
 ### (5/15) Print recommendation is [Ear Savers](#print-or-laser-cut-ear-savers) or [Budmen Scrunchie strap](#print-budmen-scrunchie-strap) while attended, [Large Face Masks](#print-face-masks) while unattended, and [Ear Savers](#print-or-laser-cut-ear-savers) at the end of spools.
 
-[PRINT OR LASER CUT: Ear Savers](#print-or-laser-cut-ear-savers) -- ADDED LASER CUT FILES 5/7/2020
+[PRINT OR LASER CUT: Ear Savers](#print-or-laser-cut-ear-savers) -- ADDED LASER CUT FILES 5/7
 
-[PRINT: Budmen Scrunchie strap](#print-budmen-scrunchie-strap) -- ADDED 4/24/2020
+[PRINT: Budmen Scrunchie strap](#print-budmen-scrunchie-strap) -- ADDED 4/24
 
-[PRINT: Face Masks](#print-face-masks) -- STL FILES AND RATIO UPDATED 5/13/2020
+[PRINT: Face Masks](#print-face-masks) -- STL FILES AND RATIO UPDATED 5/13
 
-[SEW: Face Masks](#sew-face-masks) -- UPDATED WITH INSTRUCTIONS 4/23/2020
+[SEW: Face Masks](#sew-face-masks) -- UPDATED WITH INSTRUCTIONS 4/23
 
-[STANDBY: Budmen Face Shields](#standby-budmen-face-shields-v5) -- CHANGED TO STANDBY 5/15/2020
+[STANDBY: Budmen Face Shields](#standby-budmen-face-shields-v5) -- CHANGED TO STANDBY 5/15
 
 [STANDBY: 3DVerkstan Face Shields V5](#standby-3dverkstan-face-shields-v5)
 
