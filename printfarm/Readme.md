@@ -21,9 +21,8 @@ Clean the nozzle while it is heating up -- MORE INFORMATION TO FOLLOW
 ## Manual level process (tramming the bed)
 You need to manually level the bed before printing!
 - Zero out the system
-  - Unplug the probe sensor connector located on the right side of the print head
   - Set the Z-Offset to 0 (Move -> Tune)
-  - Pull print head out of seated position (this ensures nozzle cannot crash into bed)
+  - Pull print head out of seated position (this ensures nozzle cannot crash into bed and forces the use of mechanical limit switch)
   - Initiate Auto-Level from the touch screen (this will go over the bed using the mechanical level switch and zero out all mesh leveling data)
 - Perform manual leveling
   - Lower the bed by tightening the 4 leveling knobs to ensure nozzle will not crash into bed during the leveling process (they are upside down, so remember righty tighty is relative :)
