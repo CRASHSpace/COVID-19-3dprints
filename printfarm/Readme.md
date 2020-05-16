@@ -13,10 +13,24 @@ Budmen V5    | [4x Budmen PETG 0.4mm](https://github.com/CRASHSpace/COVID-19-3dp
 0.75" Strap Locks | |[72 Straplocks PLA](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/printfarm/MP10/0.4%20Nozzle/PLA/PLA_04_72Xstrap_lock_MP10.gcode) | 
 
 ## Setup
-NOTE! When you turn off the printer, it loses it's Z-Offset. Make sure you reset this when the power is turned off.
+NOTE! When you turn off the printer, it can lose it's Z-Offset. Make sure you check this after any power cycle.
 
 ## Cleaning
 Clean the nozzle while it is heating up -- MORE INFORMATION TO FOLLOW
 
-## Manual level process
-You need to manually level the bed before printing! MORE INFORMATION TO FOLLOW.
+## Manual level process (tramming the bed)
+You need to manually level the bed before printing!
+- Zero out the system
+  - Unplug the probe sensor connector located on the right side of the print head
+  - Set the Z-Offset to 0 (Move -> Tune)
+  - Pull print head out of seated position (this ensures nozzle cannot crash into bed)
+  - Initiate Auto-Level from the touch screen (this will go over the bed using the mechanical level switch and zero out all mesh leveling data)
+- Perform manual leveling
+  - Lower the bed by tightening the 4 leveling knobs to ensure nozzle will not crash into bed during the leveling process (they are upside down, so remember righty tighty is relative :)
+  - Ensure nozzle is clear of any ooze and place head back into place
+  - Select the Manual Level Code from the print menu
+  - The system will wait for the bed to heat up before continuing
+    - The head will then go near each of the leveling knobs and lower to 0.28mm. Use your favorite leveling paper that is near this to check for friction and adjust at each stop
+- When complete plug in the leveling probe and perform auto-leveling with bed preheated to printing temps
+- Set the Z-offset upon the start of the next print
+
