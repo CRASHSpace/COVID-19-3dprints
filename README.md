@@ -55,10 +55,8 @@ Every recipient wants these. Mask bands not tugging on ears --> More comfortable
 
 These are more easily sanitized than an elastic strap, and are going to remote hospitals. PET or PETG only.
 
-## PRINT: Face Masks
+## STANDBY: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
-
-**Large size only at the moment (5/13)**
 
 ![Face Mask Assembly](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render_small.png)
 
