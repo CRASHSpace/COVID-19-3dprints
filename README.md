@@ -1,15 +1,27 @@
 # COVID-19 3D prints and projects
 
-CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. You can read about our full efforts here: [https://covid.crashspace.org](https://covid.crashspace.org)
+I. [About us / Our work](#our-work)
 
-Let us know if you can help at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
+II. [Designs](#print-or-laser-cut-ear-savers)
+
+III. [Current needs / print recommendations](#print-recommendation) - Updated 5/26
+
+IV. [Getting parts to us](#drop-off)
 
 *This repo will stay updated with the latest information and source files.*
 
-### [(4/10) We launched our GoFundMe](https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19)
+### Our work
 
-### **(4/9) Drop off:** 6323 W 80th St, Los Angeles, CA 90045.
-Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
+CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. With these clinical partners, we have developed and refined designs for face shields, face masks and ear savers, and rallied the community to build them.
+
+We launched [our GoFundMe](https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19) on 4/10, and cannot thank everyones' generosity enough.
+
+If you'd like to help build or assemble, let us know at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
+
+For more information on our work: [https://covid.crashspace.org](https://covid.crashspace.org)
+
+### Drop off
+No contact drop off is at: 6323 W 80th St, Los Angeles, CA 90045, and times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
 
 ![Dropzone outside](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/Dropzone_Outside.jpg)
 
@@ -19,7 +31,8 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 **IF YOU'D LIKE A DONATION RECEIPT**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
-### (5/26) Print recommendation is [Ear Savers](#print-or-laser-cut-ear-savers) or [20mm Strap Locks](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/20mm_strap_lock.stl) while attended, [Budmen Scrunchie straps](#print-budmen-scrunchie-strap) if you have PET or PETG, and [Ear Savers](#print-or-laser-cut-ear-savers) at the end of spools.
+### Print recommendation:
+### (5/26) [Ear Savers](#print-or-laser-cut-ear-savers) or [20mm Strap Locks](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/20mm_strap_lock.stl) while attended, [Budmen Scrunchie straps](#print-budmen-scrunchie-strap) if you have PET or PETG, and [Ear Savers](#print-or-laser-cut-ear-savers) at the end of spools.
 
 [PRINT OR LASER CUT: Ear Savers](#print-or-laser-cut-ear-savers) -- ADDED LASER CUT FILES 5/7
 
@@ -48,7 +61,7 @@ Times will be posted on [our calendar](https://calendar.google.com/calendar/embe
 
 ![Ear Saver](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/EarSaver.jpg)
 
-Every recipient wants these. Mask bands not tugging on ears --> More comfortable --> Wear the mask longer (**safer**) --> Adjust the mask less (**safer**). If you have a smaller printer, making these is a perfect way to help.
+Every recipient wants these. Mask bands not tugging on ears == More comfortable. More comfortable == Wear the mask longer (**safer**) + Adjust the mask less (**safer**). If you have a smaller printer, making these is a perfect way to help.
 
 ## PRINT: Budmen Scrunchie strap
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband)
