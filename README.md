@@ -78,7 +78,10 @@ Cedars and Keck approved for immediate use. As of 5/25, we are receiving injecti
 
 We have enough Verkstan shields to meet current demand, and have access to a donated stockpile.
 
-*If you are making some for yourself or another group*, use clear 8.5" x 11" sheets for the shield, 3-hole punched to this shape: [Verkstan V5 3 Hole Punch](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf). Instructions here: [https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be)
+*If you are making some for yourself or another group*, use clear 8.5" x 11" sheets for the shield, [3-hole punched to this shape](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf). [Instructions here](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be).
+
+**OR** for large numbers, make [this drill jig from Midsouth Makers](http://www.midsouthmakers.org/2020/04/memphis-fighting-covid-transparency-drilling-rig/#MemphisFightingCOVID)
+![Verkstan drill jig](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_3DVerkstanV5Jig.jpg)
 
 ## DON'T PRINT: Face Masks
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Mask)
