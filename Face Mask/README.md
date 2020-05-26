@@ -1,7 +1,5 @@
-# Face Masks for USC Keck — V3a updated 5/13
+# Face Masks (USC Keck modified Lowell design)—V3a updated 5/13
 ![Face mask render](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/facemask_USCV2-render.png)
-
-### Only Large prints needed at the moment (5/13)
 
 ## Each mask consists of:
 **1 x** [USCSW-Filtered_Mask-v3L.stl](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Mask/USCSW-Filtered_Mask-v3L.stl) **OR**
