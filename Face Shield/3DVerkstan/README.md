@@ -1,4 +1,4 @@
-# 3DVerkstan V5 Face Shields for MLK
+# 3DVerkstan V5 Face Shields
 ![3DVerkstan Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_3DVerkstanV5.jpg)
 
 ## Each mask consists of:
@@ -42,7 +42,7 @@ Print materials
 This can be recorded [here](https://airtable.com/shrZCoERKFkLPPHIm), or written and submitted with prints.
 
 ### Information on Request:
-MLK evaluated this design. We are waiting on verification that they will take units.
+These are being given to non-clinical users.
 
 ### Source:
 3DVerkstan: [https://3dverkstan.se/protective-visor/protective-visor-versions/](https://3dverkstan.se/protective-visor/protective-visor-versions/)
