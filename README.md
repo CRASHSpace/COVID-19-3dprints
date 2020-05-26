@@ -10,20 +10,20 @@ IV. [Getting parts to us](#drop-off)
 
 *This repo will stay updated with the latest information and source files.*
 
-### Our work
+## Our work
 
-CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. With these clinical partners, we have developed and refined designs for face shields, face masks and ear savers, and rallied the community to build them.
+CRASH Space has been working with USC Keck, Cedars-Sinai and others on the front line of this pandemic. With these clinical partners, we have developed and refined designs for face shields, face masks and ear savers, and rallied the community to build them. For the latest information on our work: [https://covid.crashspace.org](https://covid.crashspace.org)
 
-We launched [our GoFundMe](https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19) on 4/10, and cannot thank everyones' generosity enough.
+We launched [our GoFundMe](https://charity.gofundme.com/o/en/campaign/makers-united-against-covid-19) on 4/10, and cannot thank our donors enough.
 
 If you'd like to help build or assemble, let us know at covid@crashspace.org or on [this volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSczant_0pGT0tIEJhOTPQsQpFoTAtQAkubEGK8ArdoSDPgAVQ/viewform).
 
-For more information on our work: [https://covid.crashspace.org](https://covid.crashspace.org)
-
 ### Drop off
-No contact drop off is at: 6323 W 80th St, Los Angeles, CA 90045, and times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
+We are collecting donations and assembling kits at: 6323 W 80th St, Los Angeles, CA 90045. Times will be posted on [our calendar](https://calendar.google.com/calendar/embed?src=crashspacela@gmail.com&ctz=America/Los_Angeles).
 
 ![Dropzone outside](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/Dropzone_Outside.jpg)
+
+No contact drop-off area:
 
 ![Dropzone doorway drop](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/Dropzone_Doorway.jpg)
 
@@ -31,8 +31,8 @@ No contact drop off is at: 6323 W 80th St, Los Angeles, CA 90045, and times will
 
 **IF YOU'D LIKE A DONATION RECEIPT**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
-### Print recommendation:
-### (5/26) [Ear Savers](#print-or-laser-cut-ear-savers) or [20mm Strap Locks](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/20mm_strap_lock.stl) while attended, [Budmen Scrunchie straps](#print-budmen-scrunchie-strap) if you have PET or PETG, and [Ear Savers](#print-or-laser-cut-ear-savers) at the end of spools.
+## Print recommendation:
+**(5/26) [Ear Savers](#print-or-laser-cut-ear-savers) or [20mm Strap Locks](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/20mm_strap_lock.stl) while attended, [Budmen Scrunchie straps](#print-budmen-scrunchie-strap) if you have PET or PETG, and [Ear Savers](#print-or-laser-cut-ear-savers) at the end of spools.**
 
 [PRINT OR LASER CUT: Ear Savers](#print-or-laser-cut-ear-savers) -- ADDED LASER CUT FILES 5/7
 
