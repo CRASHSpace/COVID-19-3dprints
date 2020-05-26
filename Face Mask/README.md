@@ -22,8 +22,6 @@ USCSW_gasket_x5S.stl, USCSW_gasket_x5M.stl and USCSW_gasket_x5L.stl are for mold
 
 **Suggested settings:** *Largest layer size option, up to 0.6mm DRAFT* with *~10% infill*.
 
-**Print Ratio:** Large masks only at the moment (5/13)
-
 ## Parts you need to assemble:
 DO NOT assemble if delivering to USC Keck. This is for assembling one for yourself.
 
