@@ -4,7 +4,7 @@ I. [About us / Our work](#our-work)
 
 II. [Designs](#print-or-laser-cut-ear-savers)
 
-III. [Current needs / print recommendations](#print-recommendation) - Updated 5/26
+III. [Current needs / print recommendations](#print-recommendation) - Updated 7/10
 
 IV. [Getting parts to us](#drop-off)
 
@@ -32,15 +32,15 @@ No contact drop-off area:
 **IF YOU'D LIKE A DONATION RECEIPT**, you can get one here: [https://airtable.com/shrjphZT0ER9aLhNy](https://airtable.com/shrjphZT0ER9aLhNy)
 
 ## Print recommendation:
-**(5/26) [Ear Savers](#print-or-laser-cut-ear-savers) or [20mm Strap Locks](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/20mm_strap_lock.stl) while attended, [Budmen Scrunchie straps](#print-budmen-scrunchie-strap) if you have PET or PETG, and [Ear Savers](#print-or-laser-cut-ear-savers) at the end of spools.**
+**(7/10) [20mm Strap Locks](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/20mm_strap_lock.stl) or [Ear Savers](#print-or-laser-cut-ear-savers).**
 
 [PRINT OR LASER CUT: Ear Savers](#print-or-laser-cut-ear-savers) -- ADDED LASER CUT FILES 5/7
 
 [PRINT: 20mm Strap Locks](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/Budmen%20Face%20Shield/V5/3D-files/20mm_strap_lock.stl) -- JUST STRAP LOCKS 5/26
 
-[PRINT: Budmen Scrunchie strap](#print-budmen-scrunchie-strap) -- ADDED 4/24
-
 [SEW: Fabric Face Masks](#sew-fabric-face-masks) -- UPDATED WITH INSTRUCTIONS 4/23
+
+[STANDBY: Budmen Scrunchie strap](#standby-budmen-scrunchie-strap) -- CHANGED TO STANDBY 7/10
 
 [DON'T PRINT: Budmen Face Shields V5](#dont-print-budmen-face-shields-v5) -- CHANGED TO DON'T PRINT 5/26
 
@@ -63,7 +63,7 @@ No contact drop-off area:
 
 Every recipient wants these. Mask bands not tugging on ears == More comfortable. More comfortable == Wear the mask longer (**safer**) + Adjust the mask less (**safer**). If you have a smaller printer, making these is a perfect way to help.
 
-## PRINT: Budmen Scrunchie strap
+## STANDBY: Budmen Scrunchie strap
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/CRASHSpace%20Scrunchy%20Headband)
 
 ![Budmen Scrunchie Strap](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/CS_scrunchy_blue_kevin.png)
@@ -91,7 +91,7 @@ Cedars and Keck approved for immediate use. As of 5/25, we are receiving injecti
 
 We have enough Verkstan shields to meet current demand, and have access to a donated stockpile.
 
-*If you are making some for yourself or another group*, use clear 8.5" x 11" sheets for the shield, [3-hole punched to this shape](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf). [Instructions here](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be).
+*If you are making some for yourself or another group*, use clear 8.5" x 11" sheets for the shield, [3-hole punched to this shape](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf). Instructions [here](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be).
 
 **OR** for large numbers, make [this drill jig from Midsouth Makers](http://www.midsouthmakers.org/2020/04/memphis-fighting-covid-transparency-drilling-rig/#MemphisFightingCOVID)
 ![Verkstan drill jig](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_3DVerkstanV5Jig.jpg)
