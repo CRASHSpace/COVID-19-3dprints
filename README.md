@@ -80,7 +80,7 @@ These are more easily sanitized than an elastic strap, and are going to remote h
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/budmenfaceshieldv3_small.jpg)
 
-Cedars and Keck approved for immediate use. As of 5/25, we are receiving injection molded visors to fill our outstanding requests.
+Cedars and Keck approved for immediate use. Assembly instructions are [here](https://youtu.be/I1LvKaha7R0). As of 5/25, we are receiving injection molded visors to fill our outstanding requests.
 
 *If you are making some for yourself or another group*, use clear sheets cut to this shape: [Cedars Budmen shield template](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1.pdf). **NOTE:** Our template is different from the stock Budmen shield. Laser template here: [Cedars_Budmen_shield_v1cut.pdf](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/Budmen%20Face%20Shield/V3/polysheet-templates/Cedars_Budmen_shield_v1cut.pdf)
 
