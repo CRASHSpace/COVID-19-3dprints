@@ -35,7 +35,7 @@ No contact drop-off area:
 
 **As of late July**, demand has tapered off as supply chains have caught up. We will announce periodic sprint runs as individual requests come in, and maintain this page for others wanting to produce PPE designs we've validated.
 
-[Sprint Run 8/14 - 8/18: 3DVerkstan Face Shields, V5](#sprint-run-814-818-3dverkstan-face-shields-v5)
+[Sprint Run 8/14 - 8/18: 3DVerkstan Face Shields, V5](#sprint-run-8-14-8-18-3dverkstan-face-shields-v5)
 
 [Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
 
