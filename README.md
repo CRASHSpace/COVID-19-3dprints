@@ -4,7 +4,7 @@ I. [About us / Our work](#our-work)
 
 II. [Designs](#print-or-laser-cut-ear-savers)
 
-III. [Current needs / print recommendations](#print-recommendation) - Updated 8/14
+III. [Current needs / print recommendations](#print-recommendation) - Updated 8/21
 
 IV. [Getting parts to us](#drop-off)
 
@@ -33,22 +33,22 @@ No contact drop-off area:
 
 ## Print recommendation:
 
-**As of late July**, demand has tapered off as supply chains have caught up. We will announce periodic sprint runs as individual requests come in, and maintain this page for others wanting to produce PPE designs we've validated.
+**As of late July**, demand for clinical face shields has tapered off as supply chains have caught up. We will announce periodic sprint runs as individual requests come in, and maintain this page for others wanting to produce PPE designs we've validated. As the situation evolves, we too will adapt.
 
-[Sprint Run 8/14 - 8/18: 3DVerkstan Face Shields, V5](#sprint-run-814818-3dverkstan-face-shields-v5)
+[Sprint Run 8/14 - 8/26: 3DVerkstan Face Shields, V5](#sprint-run-8/14-8/26-3dverkstan-face-shields-v5) -- Extended to 8/26
 
 [Sanitation Guidelines](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Sanitation%20Guidelines_20200329.pdf)
 
 ---
 
-## Sprint Run 8/14 - 8/18: 3DVerkstan Face Shields, V5
+## Sprint Run 8/14 - 8/26: 3DVerkstan Face Shields, V5
 [https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/3DVerkstan](https://github.com/CRASHSpace/COVID-19-3dprints/tree/master/Face%20Shield/3DVerkstan)
 
 ![Face shield](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_3DVerkstanV5_small.jpg)
 
-LA EOC requested 2000 non-clinical face shields. We can handle making the shields, but need visors printed. *If you are making some for yourself or another group*, use clear 8.5" x 11" sheets, [3-hole punched to this shape](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf). Instructions [here](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be).
+LA EOC requested 2000 non-clinical face shields. We can handle making the shields, but need visors printed.
 
-**OR** for large numbers, make [this drill jig from Midsouth Makers](http://www.midsouthmakers.org/2020/04/memphis-fighting-covid-transparency-drilling-rig/#MemphisFightingCOVID)
+*If you are making some for yourself or another group and need the shield information*: This version uses clear 8.5" x 11" sheets, [3-hole punched to this shape](https://github.com/CRASHSpace/COVID-19-3dprints/raw/master/Face%20Shield/3DVerkstan/Verkstan-3HolePunch-CRASHSpaceMod.pdf). Instructions [here](https://www.youtube.com/watch?v=rz36MhT7p-c&feature=youtu.be). **OR** for large numbers, make [this drill jig from Midsouth Makers](http://www.midsouthmakers.org/2020/04/memphis-fighting-covid-transparency-drilling-rig/#MemphisFightingCOVID)
 ![Verkstan drill jig](https://raw.githubusercontent.com/CRASHSpace/COVID-19-3dprints/master/images/faceshield_3DVerkstanV5Jig.jpg)
 
 ## Budmen Face Shields V5 
